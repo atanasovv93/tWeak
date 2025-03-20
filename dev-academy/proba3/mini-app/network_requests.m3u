@@ -1,15 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="105" tvg-name="MRT 1" tvg-logo="" group-title="Вести", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453054535&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDEwOjQ5OjM2IFBNJmhhc2hfdmFsdWU9bTN0ZDdEbCtrMXRqcmdPWmhnbENkZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453055649&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjI1OjMzIFBNJmhhc2hfdmFsdWU9NzNkZlB3MGV4TjVETTBCY3BSdUtiQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV" tvg-logo="" group-title="Вести", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453054548&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDEwOjQ5OjU0IFBNJmhhc2hfdmFsdWU9cUxYTFJFR0xqb2FNbUtCSEpjTzN6dz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453055661&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjI1OjUxIFBNJmhhc2hfdmFsdWU9UmpLa1A3aWdReHh4NUpCUUxRYWVzQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5" tvg-logo="" group-title="Вести", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11311223&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDEwOjUwOjEwIFBNJmhhc2hfdmFsdWU9R2ZhTk5DL0RQWUVzVEd0RjllSFlVUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11311876&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjI2OjA4IFBNJmhhc2hfdmFsdWU9OGdDOWNlQ1Z2SUJac1pJT0Rvc1U0dz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="108" tvg-name="Telma TV" tvg-logo="" group-title="Вести", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453054576&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDEwOjUwOjI3IFBNJmhhc2hfdmFsdWU9QVV1S0RSdEFyQ0VJeHdYQkVjdWhjQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453055683&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjI2OjI1IFBNJmhhc2hfdmFsdWU9QkdyZXBRMFFZU3ZPcGg4ak9TeWF1dz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="109" tvg-name="Alfa TV" tvg-logo="" group-title="Вести", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453054593&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDEwOjUwOjQzIFBNJmhhc2hfdmFsdWU9cm5TZnUrZWU5YVVqamZIVXVmYU16QT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453055693&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjI2OjQyIFBNJmhhc2hfdmFsdWU9U0Ywc1gwYUZ6anlqSy8rdE9ub2ZFQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="110" tvg-name="24 Vesti" tvg-logo="" group-title="Вести", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453054601&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDEwOjUwOjU5IFBNJmhhc2hfdmFsdWU9ZndmeHUxeXFmVUdOVmFGa0VjQngzZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453055700&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjI2OjU4IFBNJmhhc2hfdmFsdWU9dy8yVGZHNnhqZVlFNFk5bEJEOVAyUT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="104" tvg-name="TV 21" tvg-logo="" group-title="Вести", TV 21
 https://t2.tvmak.com/tv/TV21MK.m3u8?uF6RMz2KHX
+#EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1" tvg-logo="" group-title="Спорт", Max Sport 1
+https://cdn11.stgledai.org/ringbg/tracks-v1a1/mono.m3u8?token=d982259bb04dd32491c29fc6f06da36676370361-403846ce02a646fce5e38fe84d2db5f7-1742523749-1742512949
+#EXTINF:-1 tvg-id="27" tvg-name="Fox Crime" tvg-logo="" group-title="Филм", Fox Crime
+https://cdn11.stgledai.org/foxcrime/tracks-v1a1/mono.m3u8?token=be4405a86fa5e1bb76f1cad4da88adec7d62eed1-38a0151567f5a60cb9de233048611ac7-1742523944-1742513144
