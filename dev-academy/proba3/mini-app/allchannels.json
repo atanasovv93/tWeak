@@ -4,121 +4,140 @@
     "name": "MRT 1",
     "url": "https://tvstanici.net/mrt-1-zivo/",
     "category": "Вести",
-    "playurl": "https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=452977713&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDE6NDg6MzkgUE0maGFzaF92YWx1ZT1DUDloVXZKbG8xQXRzd1gycENlRkpBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ=="
+    "playurl": "https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=452989889&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDM6Mzk6MDggUE0maGFzaF92YWx1ZT1VNzB1bURKN2xoeGxPWTFzcHFGbDF3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ=="
   },
   {
     "id": 106,
     "name": "Sitel TV",
     "url": "https://tvstanici.net/sitel-vo-zivo/",
-    "category": "Вести"
+    "category": "Вести",
+    "playurl": "https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=452989914&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDM6Mzk6MjMgUE0maGFzaF92YWx1ZT1UT0RPa0pjTVRYSE83bFBCSS9DZGZnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ=="
   },
   {
     "id": 107,
     "name": "Kanal 5",
     "url": "https://tvstanici.net/kanal5-vo-zivo/",
-    "category": "Вести"
+    "category": "Вести",
+    "playurl": "https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11287116&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDM6Mzk6MzcgUE0maGFzaF92YWx1ZT0rQ3NHd2RRM3JRVmdMcDA2QzJmQ3VRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ=="
   },
   {
     "id": 108,
     "name": "Telma TV",
     "url": "https://tvstanici.net/telma-vo-zivo/",
-    "category": "Вести"
+    "category": "Вести",
+    "playurl": "https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=452989948&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDM6Mzk6NTIgUE0maGFzaF92YWx1ZT1mUWxnSVhSNUZKai9scSt5bllnSHBnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ=="
   },
   {
     "id": 109,
     "name": "Alfa TV",
     "url": "https://tvstanici.net/alfa-vo-zivo/",
-    "category": "Вести"
+    "category": "Вести",
+    "playurl": "https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=452989962&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDM6NDA6MDYgUE0maGFzaF92YWx1ZT1lR0wwaHdZUThwajZrd3BJaWo3TjdnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ=="
   },
   {
     "id": 110,
     "name": "24 Vesti",
     "url": "https://tvstanici.net/24-vesti-vo-zivo/",
-    "category": "Вести"
+    "category": "Вести",
+    "playurl": "https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=452989994&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDM6NDA6MjEgUE0maGFzaF92YWx1ZT16a1JrdTlYMmVSZldlUjlFcUxjTTd3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ=="
   },
   {
-    "id": 1,
-    "name": "Z1 TV",
-    "url": "https://www.z1tv.hr/hr/livestream/",
-    "category": "Вести"
+    "id": 104,
+    "name": "TV21",
+    "url": "https://mk.tv21.tv/live-tv/",
+    "category": "Вести",
+    "playurl": "https://t2.tvmak.com/tv/TV21MK.m3u8?uF6RMz2KHX"
   },
   {
     "id": 2,
     "name": "ORF",
     "url": "https://www.2ix2.com/orf1/",
-    "category": "Вести"
+    "category": "Вести",
+    "playurl": "https://s6.hopslan.com/orfx11/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 3,
     "name": "Servus TV",
     "url": "https://www.2ix2.com/servus-tv/",
-    "category": "Вести"
+    "category": "Вести",
+    "playurl": "https://s6.hopslan.com/servusX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 4,
     "name": "Super RTL",
     "url": "https://www.2ix2.com/super-rtl-live/",
-    "category": "Вести"
+    "category": "Вести",
+    "playurl": "https://s6.hopslan.com/superX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 5,
     "name": "ARD TV",
     "url": "https://www.2ix2.com/ard-de/",
-    "category": "Забава"
+    "category": "Забава",
+    "playurl": "https://s6.hopslan.com/ardX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 6,
     "name": "ZDF TV",
     "url": "https://www.2ix2.com/zdf-de/",
-    "category": "Забава"
+    "category": "Забава",
+    "playurl": "https://s6.hopslan.com/zdfX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 7,
     "name": "Vox TV",
     "url": "https://www.2ix2.com/vox/",
-    "category": "Забава"
+    "category": "Забава",
+    "playurl": "https://s6.hopslan.com/voxX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 8,
     "name": "N-TV",
     "url": "https://www.2ix2.com/n-tv-live/",
-    "category": "Забава"
+    "category": "Забава",
+    "playurl": "https://s6.hopslan.com/ntvX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 9,
     "name": "Sat-Gold",
     "url": "https://www.2ix2.com/sat1-gold/",
-    "category": "Забава"
+    "category": "Забава",
+    "playurl": "https://s6.hopslan.com/goldX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 10,
     "name": "TLC TV",
     "url": "https://www.2ix2.com/tlc/",
-    "category": "Забава"
+    "category": "Забава",
+    "playurl": "https://s6.hopslan.com/tlcX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 11,
     "name": "ZDF TV",
     "url": "https://www.2ix2.com/zdf-de/",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://s6.hopslan.com/zdfX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 12,
     "name": "One TV",
     "url": "https://www.2ix2.com/one-tv/",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://s4.hopslan.com/oneX/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 13,
     "name": "SiXX TV",
     "url": "https://www.2ix2.com/sixx/",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://s6.hopslan.com/sixX/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": 14,
     "name": "Phoenix TV",
     "url": "https://www.2ix2.com/phoenix/",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 15,
@@ -130,276 +149,825 @@
     "id": 16,
     "name": "Max Sport 2",
     "url": "https://www.gledaitv.live/watch-tv/10/max-sport-2-bg-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn10.stgledai.org/mtelsport2/tracks-v1a1/mono.m3u8?token=d0ba9e1f1da159583519aaf6b76a6d499c56a1fc-af2bc948bc7b82e5b1fafd5f1c81bb0b-1742495937-1742485137"
   },
   {
     "id": 17,
     "name": "Max Sport 3",
     "url": "https://www.gledaitv.live/watch-tv/11/max-sport-3-bg-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn13.stgledai.org/mtelsport3/tracks-v1a1/mono.m3u8?token=2a0fd17f4ce4f5cc06950e996b3bd58ef967538d-2e9e0cca7a6c3df897f59e6ed3604cee-1742495951-1742485151"
   },
   {
     "id": 18,
     "name": "Max Sport 4",
     "url": "https://www.gledaitv.live/watch-tv/13/diema-sport-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn8.stgledai.org/diemasport/tracks-a1/mono.m3u8?token=e0cf0db86b94f13dce89e5d57d8fd3cec2906589-f826d2cc531aba889ecf7b98dc8ce433-1742495963-1742485163"
   },
   {
     "id": 19,
     "name": "Diema Sport",
     "url": "https://www.gledaitv.live/watch-tv/65/max-sport-4-bg-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn11.stgledai.org/mtelsport4/tracks-v1a1/mono.m3u8?token=621cc8212ba207110c732c94e3d8746152cbfc53-e6fffd2264577e211ea88f708a39861e-1742495978-1742485178"
   },
   {
     "id": 20,
     "name": "Diema Sport 2",
     "url": "https://www.gledaitv.live/watch-tv/12/diema-sport-2-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn10.stgledai.org/diemasport2/tracks-v1a1/mono.m3u8?token=30519f3c224552ba953461437b70cbcc54594cf1-3d41e16996cbe044b915bea3b131bf85-1742495992-1742485192"
   },
   {
     "id": 21,
     "name": "Diema Sport 3",
     "url": "https://www.gledaitv.live/watch-tv/38/diema-sport-3-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn9.stgledai.org/diemasport3/tracks-v1a1/mono.m3u8?token=d97923f814bd9de9f7c226263549013970cbe48f-42adaf852f6a9d95f151c80dc6413fcb-1742496004-1742485204"
   },
   {
     "id": 22,
     "name": "Nova Sport",
     "url": "https://www.gledaitv.live/watch-tv/32/nova-sport-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn8.stgledai.org/novasport/tracks-a1/mono.m3u8?token=a723f46de12e8b2ecf249f43b566ccd90ba09d32-5094adec5cff5db8f2dac704201aa25b-1742496017-1742485217"
   },
   {
     "id": 23,
     "name": "Ring TV",
     "url": "https://www.gledaitv.live/watch-tv/33/eurosport-1-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn11.stgledai.org/eurosport/tracks-v1a1/mono.m3u8?token=0e9b15803928bf1dafba83f50b047dcc39164819-115089352c8a442562af46e030ad77a0-1742496030-1742485230"
   },
   {
     "id": 24,
     "name": "Eurosport 1 BG",
     "url": "https://www.gledaitv.live/watch-tv/31/ring-bg-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn11.stgledai.org/ringbg/tracks-v1a1/mono.m3u8?token=d16e22d3b43b842d80490affd39f7c6a39e27974-78295a16395faa9791944757e01cc8aa-1742496043-1742485243"
   },
   {
     "id": 25,
     "name": "Eurosport 2 BG",
     "url": "https://www.gledaitv.live/watch-tv/34/eurosport-2-online",
-    "category": "Спорт"
+    "category": "Спорт",
+    "playurl": "https://cdn9.stgledai.org/eurosport2/tracks-v1a1/mono.m3u8?token=fbef4336b0e0bf98dfa4c1e726e31eb4da053a9d-c2bb98a4a181f5b98f2b90c2651c5da8-1742496056-1742485256"
   },
   {
     "id": 26,
     "name": "Movie Star",
     "url": "https://www.gledaitv.live/watch-tv/43/movie-star-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn13.stgledai.org/moviestar/tracks-v1a1/mono.m3u8?token=fc108704427fb997721ea3dccb8b6ffb758c7af9-d9d3e43197fff0eba44f4c2595ffdb49-1742496069-1742485269"
   },
   {
     "id": 27,
     "name": "Kino Nova",
     "url": "https://www.gledaitv.live/watch-tv/44/kino-nova-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn13.stgledai.org/kino/tracks-a1/mono.m3u8?token=7eaa85dc1d0651908803b654b32916b81d942716-dda423ab720741479f8d984583b6235a-1742496082-1742485282"
   },
   {
     "id": 27,
     "name": "Fox Crime",
     "url": "https://www.gledaitv.live/watch-tv/45/fox-crime-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn8.stgledai.org/foxcrime/tracks-v1a1/mono.m3u8?token=70f819b3fef63d4baeb50d5736e76d1d8624582c-9b43a29a9c822b8bb5102651f29c9a10-1742496094-1742485294"
   },
   {
     "id": 28,
     "name": "Fox Life",
     "url": "https://www.gledaitv.live/watch-tv/46/fox-life-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn9.stgledai.org/foxlife/tracks-a1/mono.m3u8?token=f02d3007e159c1282b16b3ec07bd16f135177534-cb72597f253b45acc4c9a343d50e0731-1742496108-1742485308"
   },
   {
     "id": 29,
     "name": "Fox",
     "url": "https://www.gledaitv.live/watch-tv/47/fox-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn10.stgledai.org/fox/tracks-a1/mono.m3u8?token=c7e7e200ef1014dfda970bc2e85bbf0b3e462906-f06cccd26b6641c436ac7d0769360311-1742496121-1742485321"
   },
   {
     "id": 30,
     "name": "FilmBox BG",
     "url": "https://www.gledaitv.live/watch-tv/50/film-box-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn13.stgledai.org/filmbox/tracks-v1a1/mono.m3u8?token=31e4d7e14ba7d07767377277b2f801921c033062-49fafecf3587f65b52a931f52487ba02-1742496134-1742485334"
   },
   {
     "id": 31,
     "name": "FilmBox Plus",
     "url": "https://www.gledaitv.live/watch-tv/48/film-box-plus-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn13.stgledai.org/filmboxplus/tracks-v1a1/mono.m3u8?token=1e5f481e51f0effd178ed90ce9a3f300de5f8809-5894b2ca1b05e7ea8e51c85449a8919c-1742496147-1742485347"
   },
   {
     "id": 32,
     "name": "FilmBox Extra",
     "url": "https://www.gledaitv.live/watch-tv/49/film-box-extra-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn10.stgledai.org/filmboxextra/tracks-v1a1/mono.m3u8?token=3357e557eeb309040f4d3be199499642d4e7da09-dee6c2eee1ac1f918c20d7576158e9e2-1742496159-1742485359"
   },
   {
     "id": 33,
     "name": "Diema",
     "url": "https://www.gledaitv.live/watch-tv/52/diema-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn10.stgledai.org/diema/tracks-a1/mono.m3u8?token=94854e909fc53395f165d2e12807385109290588-73618982d77a28b3c3d8562cb46dc617-1742496172-1742485372"
   },
   {
     "id": 34,
     "name": "Diema Family",
     "url": "https://www.gledaitv.live/watch-tv/51/diema-family-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn9.stgledai.org/diemaf/tracks-a1/mono.m3u8?token=b81e0fb3275593585d966f40ac490f4f49d57c70-38ecb0bd50e7278ad4abf8a6262a6d42-1742496186-1742485386"
   },
   {
     "id": 35,
     "name": "bTV Lady",
     "url": "https://www.gledaitv.live/watch-tv/53/btv-lady-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn9.stgledai.org/btvlady/tracks-v1a1/mono.m3u8?token=bdcceb933e3e2e3a369d1f596aadd6d6696c19cf-b18603134fbd0c91a96fc6c7f4dde16a-1742496199-1742485399"
   },
   {
     "id": 36,
     "name": "bTV Comedy",
     "url": "https://www.gledaitv.live/watch-tv/54/btv-comedy-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn13.stgledai.org/btvcomedy/tracks-v1a1/mono.m3u8?token=f92e20870e214c50ac5b7a535dd617c0b701d8b9-8f5f20d948b217eab71cbf96d639e3d9-1742496212-1742485412"
   },
   {
     "id": 37,
     "name": "bTV Cinema",
     "url": "https://www.gledaitv.live/watch-tv/55/btv-cinema-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn10.stgledai.org/btvcinema/tracks-v1a1/mono.m3u8?token=8ee84d30fd5c7778cf8580d56d579c3a7752035d-4b2d2be1ca53b85029b0da8782381792-1742496227-1742485427"
   },
   {
     "id": 38,
     "name": "bTV Action",
     "url": "https://www.gledaitv.live/watch-tv/56/btv-action-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn11.stgledai.org/btvaction/tracks-v1a1/mono.m3u8?token=0cf8f6e4633de39b4566cc8d7d4261455b759a92-c68bac2f70ab717b79b7ce1fe41d5dd4-1742496241-1742485441"
   },
   {
     "id": 39,
     "name": "AXN BG",
     "url": "https://www.gledaitv.live/watch-tv/59/axn-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn8.stgledai.org/axn/tracks-a1/mono.m3u8?token=e63166f73bcd81200f3b9c074b3de3df7a80431c-9ae2ea1a2d83869b5877de58f98130f7-1742496254-1742485454"
   },
   {
     "id": 40,
     "name": "AMC BG",
     "url": "https://www.gledaitv.live/watch-tv/66/amc-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn13.stgledai.org/amc/tracks-v1a1/mono.m3u8?token=4d66e7a1a0c32221b96f3843bc4ea024c0ee4a3c-f1f516ca402a6012af4b9f50bd24adc4-1742496267-1742485467"
   },
   {
     "id": 41,
     "name": "Epic Drama BG",
     "url": "https://www.gledaitv.live/watch-tv/75/epic-drama-online",
-    "category": "Филм"
+    "category": "Филм",
+    "playurl": "https://cdn13.stgledai.org/epicdrama/tracks-v1a1/mono.m3u8?token=d28c4f318ad03bed33ae02babf3119227b476c32-5cdb1d0d21f3cbc48fc8f945be6132db-1742496280-1742485480"
   },
   {
     "id": 42,
     "name": "Animal Planet BG",
     "url": "https://www.gledaitv.live/watch-tv/17/animal-planet-online",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://cdn10.stgledai.org/animalplanet/tracks-v1a1/mono.m3u8?token=671196f94b982bab7ef9ab7e31934d1f52f23b60-db532739ebec090b4a7c022ac5d4d66f-1742496294-1742485494"
   },
   {
     "id": 43,
     "name": "Discovery Channel BG",
     "url": "https://www.gledaitv.live/watch-tv/18/discovery-channel-online",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://cdn8.stgledai.org/discovery/tracks-v1a1/mono.m3u8?token=574faa3ae1dfe2ab94ddb93e0033a58a40d1e056-e4cdd7276298d5125ef68074d3f9f71a-1742496306-1742485506"
   },
   {
     "id": 44,
     "name": "DocuBox BG",
     "url": "https://www.gledaitv.live/watch-tv/19/docubox-online",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://cdn11.stgledai.org/docubox/tracks-v1a1/mono.m3u8?token=d50a0a6bf24f319ea1423fb695ce740380ec8a61-6afb3f1019178c45b7fe9f3401ff2cb1-1742496320-1742485520"
   },
   {
     "id": 45,
     "name": "History Channel BG",
     "url": "https://www.gledaitv.live/watch-tv/21/history-channel-online",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://cdn10.stgledai.org/historytv/tracks-v1a1/mono.m3u8?token=226e416c6ca914721c7d04a501a1468bf6716f21-1db416d39192d5b30d4ef432ce67c575-1742496333-1742485533"
   },
   {
     "id": 46,
     "name": "Investigation Discovery BG",
     "url": "https://www.gledaitv.live/watch-tv/22/investigation-discovery-online",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://cdn13.stgledai.org/idx/tracks-v1a1/mono.m3u8?token=85d1cf1648118807cf5f009d528bc806612b35b4-604115a09ad7b7c16c0dedda6008c79b-1742496346-1742485546"
   },
   {
     "id": 47,
     "name": "National Geographic Channel BG",
     "url": "https://www.gledaitv.live/watch-tv/23/national-geographic-channel",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://cdn9.stgledai.org/ng/tracks-a1/mono.m3u8?token=b11981de685fd14936cd9f3dd584e743875898ed-281e0e3714eb13c1cb22f4b99e9b700f-1742496359-1742485559"
   },
   {
     "id": 48,
     "name": "Nat Geo Wild BG",
     "url": "https://www.gledaitv.live/watch-tv/24/nat-geo-wild-online",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://cdn9.stgledai.org/natgeowild/tracks-v1a1/mono.m3u8?token=e8fe787d8ae9b97c6861dbc54dbf199ff4b185f6-b953f54cf325e78f986780ca343c8880-1742496372-1742485572"
   },
   {
     "id": 49,
     "name": "Viasat History BG",
     "url": "https://www.gledaitv.live/watch-tv/27/viasat-history-online",
-    "category": "Документарни"
+    "category": "Документарни",
+    "playurl": "https://cdn13.stgledai.org/viasat_history/tracks-a1/mono.m3u8?token=ee12549556bcf510bfc732f418c9e6c62b3ce583-f0bb8382e7a5a092f75cfb4d59fdcbdf-1742496390-1742485590"
   },
   {
     "id": 50,
     "name": "Viasat Nature BG",
     "url": "https://www.gledaitv.live/watch-tv/28/viasat-nature-online",
-    "category": "Бугарски"
+    "category": "Бугарски",
+    "playurl": "https://cdn9.stgledai.org/viasat_nature/tracks-v1a1/mono.m3u8?token=686d57b75b3e6ee3021bbf1ba3843bc975ae0ee9-ba3d2055c3ef7b34b25309b7915f4fde-1742496406-1742485606"
   },
   {
     "id": 51,
     "name": "BNT 1",
     "url": "https://www.gledaitv.live/watch-tv/64/bnt-1-online",
-    "category": "Бугарски"
+    "category": "Бугарски",
+    "playurl": "https://cdn8.stgledai.org/bnt/tracks-v1a1/mono.m3u8?token=11dfe0593a29c3f4238701b560262d7ac60bc6d0-f82fcaa0ab8f26d71bad89877de04ef9-1742496422-1742485622"
   },
   {
     "id": 52,
     "name": "BNT 2",
     "url": "https://www.gledaitv.live/watch-tv/63/bnt-2-online",
-    "category": "Бугарски"
+    "category": "Бугарски",
+    "playurl": "https://cdn10.stgledai.org/bnt2/tracks-v1a1/mono.m3u8?token=4c1d2f800a983e6e21d3f959bb97e4bb6854bb4d-d47df487234b1420ab40a0e44c0fc6a1-1742496435-1742485635"
   },
   {
     "id": 53,
     "name": "BNT 3",
     "url": "https://www.gledaitv.live/watch-tv/62/bnt-3-online",
-    "category": "Бугарски"
+    "category": "Бугарски",
+    "playurl": "https://cdn9.stgledai.org/bnthd/tracks-v1a1/mono.m3u8?token=ee6966feb12ff22894bfd4d4a73b34933662a613-a93f94ed198db2f91eca204ebf389d68-1742496450-1742485650"
   },
   {
     "id": 54,
     "name": "BNT 4",
     "url": "https://www.gledaitv.live/watch-tv/42/bnt-4-online",
-    "category": "Бугарски"
+    "category": "Бугарски",
+    "playurl": "https://cdn10.stgledai.org/bnt4/tracks-v1a1/mono.m3u8?token=50d4dc680a3659e5484ecc8f4843b0b5f42ad19c-52496559f62594f3ad3258552b60a9e3-1742496469-1742485669"
   },
   {
     "id": 55,
     "name": "bTV BG",
     "url": "https://www.gledaitv.live/watch-tv/61/btv-online",
-    "category": "Бугарски"
+    "category": "Бугарски",
+    "playurl": "https://cdn11.stgledai.org/btv/tracks-v1a1/mono.m3u8?token=f5e4410e9512c802d780aad13c1adb24905e6b77-728c205fbc487e95fbc157ab14c7b50a-1742496480-1742485680"
   },
   {
     "id": 56,
     "name": "NovaTV BG",
     "url": "https://www.gledaitv.live/watch-tv/60/nova-tv-online",
-    "category": "Бугарски"
+    "category": "Бугарски",
+    "playurl": "https://cdn11.stgledai.org/nova/tracks-v1a1/mono.m3u8?token=9b4a5cb65cf638032c8eca4e534383f1ff310b4b-2161948ba65f35ca97e59f5c6e4c6750-1742496497-1742485697"
   },
   {
     "id": 57,
     "name": "Balkanika TV",
     "url": "https://www.gledaitv.live/watch-tv/73/balkanika-tv-online",
-    "category": "Музика"
+    "category": "Музика",
+    "playurl": "https://cdn13.stgledai.org/balkanika/tracks-v1a1/mono.m3u8?token=f72e68ab83d8b212498e95521414f5b31f5d0dc2-5e5c3417a05a8292c2d02814ba0f225f-1742496509-1742485709"
   },
   {
     "id": 58,
     "name": "FEN TV",
     "url": "https://www.gledaitv.live/watch-tv/74/fen-tv-online",
-    "category": "Музика"
+    "category": "Музика",
+    "playurl": "https://cdn9.stgledai.org/fantv/tracks-v1a1/mono.m3u8?token=ae32b867d2786e3816c0292da4cdb40d2291ca4a-891b50b0e025515827c1499f48f78d9b-1742496525-1742485725"
   },
   {
     "id": 59,
     "name": "Planeta TV",
     "url": "https://www.gledaitv.live/watch-tv/40/planeta-hd-online",
-    "category": "Музика"
+    "category": "Музика",
+    "playurl": "https://cdn13.stgledai.org/planetahd/tracks-v1a1/mono.m3u8?token=b910541693300a7bcab7c6d2873e075a603faa45-2c66a9a375a79a529952d9c9eff515bf-1742496539-1742485739"
   },
   {
     "id": 60,
     "name": "TLC BG",
     "url": "https://www.gledaitv.live/watch-tv/36/tlc-online",
-    "category": "Музика"
+    "category": "Музика",
+    "playurl": "https://cdn13.stgledai.org/tlc/tracks-v1a1/mono.m3u8?token=e361e161791c043a070d272f7e321d101ac850da-7802a357bf58bb386b6c333d94ba5fba-1742496552-1742485752"
+  },
+  {
+    "id": 111,
+    "name": "HBO 1",
+    "url": "https://rds.live/hbo-hd-1/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=b4375d58c5b2b8774d92877ab13bbd893f92e098-4039955bd0b79fb4a85efc63b39f62da-1742496564-1742485764"
+  },
+  {
+    "id": 112,
+    "name": "HBO 2",
+    "url": "https://rds.live/hbo-2-hd/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=8f5b62297a0caa4a82bb7e697998cc61e6fb6caf-ecbbad4ed300c80676170505d16c4975-1742496577-1742485777"
+  },
+  {
+    "id": 113,
+    "name": "HBO 3",
+    "url": "https://rds.live/hbo-3-hd/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9f8295107bf7759840f7075d9ccc8d8aa43e07a1-7d6e9b8285cccbb9e4189d993885f3d4-1742496590-1742485790"
+  },
+  {
+    "id": 114,
+    "name": "SkyShowTime 1",
+    "url": "https://rds.live/skyshowtime-hd/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/SkyShowTime/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=7c71ce395102f69fa9e7b96fdf70175708fc1be6-c188b58a93178be0bf540311028efc04-1742496604-1742485804"
+  },
+  {
+    "id": 115,
+    "name": "SkyShowTime 2",
+    "url": "https://rds.live/skyshowtime-2-hd/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/skyshowtime2hd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=278e42d90abb3e5c8d6f8861c7fe6ce9fe034a44-a7b7def11ff54d1865125371d7e8e219-1742496617-1742485817"
+  },
+  {
+    "id": 116,
+    "name": "Cinemax 1",
+    "url": "https://rds.live/cinemax-hd/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/cinemaxhd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=054e5014920ed4f5bbe284b58caebcf76cf01868-e50b788188746f11946564deb5adb9c0-1742496630-1742485830"
+  },
+  {
+    "id": 117,
+    "name": "Cinemax 2",
+    "url": "https://rds.live/cinemax-2/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/cinemax2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=8adf92a16c20d10b8f613bb7b76ab005d58ff2df-12707e5bade8868f0075ca0717e88b14-1742496643-1742485843"
+  },
+  {
+    "id": 118,
+    "name": "BBC First",
+    "url": "https://rds.live/bbc-first-hd/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/bbcfirsthd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=650fc62fad33fc382a8409888830510b9066b70c-2d1fbc76dc90aac9dd7fa095e6271b93-1742496657-1742485857"
+  },
+  {
+    "id": 119,
+    "name": "AMC",
+    "url": "https://rds.live/amc/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/amcsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4558d31986360e2a84f4edb31c19545fa7cb242f-dbe3b1e894cdc5b5f3907fe86f3a2c04-1742496670-1742485870"
+  },
+  {
+    "id": 120,
+    "name": "FilmNow",
+    "url": "https://rds.live/film-now-ro1/",
+    "category": "Филм",
+    "playurl": "https://p13.magicplaces.eu/filmnow/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=764dfd627d955f296b6f9f222eb94d433fce3591-90b3c56c3669340f9c7860ae81d3dfc1-1742496683-1742485883"
+  },
+  {
+    "id": 121,
+    "name": "DIVA",
+    "url": "https://rds.live/diva/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/diva/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=added0b29ea9315972c35c462e108dc850729bd3-7d84d1a2d4aa7511335acc1469da751c-1742496696-1742485896"
+  },
+  {
+    "id": 122,
+    "name": "FilmBox",
+    "url": "https://rds.live/filmbox/",
+    "category": "Филм",
+    "playurl": "https://p13.magicplaces.eu/30.backup.filmbox/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=9feed77925a32c189ba44eb1b1d306c69eca017a-14bb0402cfaf0cf9d5b1e349a9340b5a-1742496710-1742485910"
+  },
+  {
+    "id": 123,
+    "name": "Filmbox Premium",
+    "url": "https://rds.live/filmbox-premium/",
+    "category": "Филм",
+    "playurl": "https://p13.magicplaces.eu/18.backup.filmboxpremium/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=3a4f138fbc31d39923395e6ccc9ab7f4d04120cc-b5428773f5cc9001ea51c9c6b822273a-1742496723-1742485923"
+  },
+  {
+    "id": 124,
+    "name": "TV1000",
+    "url": "https://rds.live/tv-1000/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/tv1000/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=bbaa5d88ca616674f4acbd87f67b806e124e36d0-98317b32092f81ede098ae538c6bdd4d-1742496736-1742485936"
+  },
+  {
+    "id": 125,
+    "name": "AXN",
+    "url": "https://rds.live/axn/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/axnsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=8e4ee4795830abc4c6abef0c4e3dd9d6e9373c6e-724bb28a4933ebce3c89379ec472159d-1742496749-1742485949"
+  },
+  {
+    "id": 126,
+    "name": "AXN White",
+    "url": "https://rds.live/axn-white/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/axnwhite/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=fec3f8b557c60a35633e0401ec4ee55855371362-3926678d4fb54ac77b8d9210afc7e05f-1742496763-1742485963"
+  },
+  {
+    "id": 127,
+    "name": "AXN Black",
+    "url": "https://rds.live/axn-black/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/axnblack/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4c0d8e661cd45fc9d2b9e6fda0fd97f5e5b326be-0ce8f775c6b71026b3b7ac174659d8cf-1742496776-1742485976"
+  },
+  {
+    "id": 128,
+    "name": "AXN Spin",
+    "url": "https://rds.live/axn-spin/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/axnspin/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9db788b5df4a54ae6349ac6ac138c1c27008d6bd-8c9a66fbf39e41d9047e06f486fb9f55-1742496789-1742485989"
+  },
+  {
+    "id": 129,
+    "name": "Epic Drama",
+    "url": "https://rds.live/epicdrama/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/epicdramasd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9421d8e24fbe15d713e6eb5690f3a5dc5ac4a8dd-8d5e9d0b09cb80605cbe5083db019bf6-1742496802-1742486002"
+  },
+  {
+    "id": 130,
+    "name": "Comedy Central",
+    "url": "https://rds.live/comedy-central/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/comedycentralsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=b9e9e1a0130ac99d97c4c1e05437e04d5e7a0dd0-8bbb1040f6dd7a60a44a1d25fea8133a-1742496816-1742486016"
+  },
+  {
+    "id": 131,
+    "name": "Pro Cinema",
+    "url": "https://rds.live/pro-cinema-1/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/procinemasd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=917b50eafc902c6e7aec6276cb4f1e418dbdbf86-00c38561b4f314a60a9ffb45726d0789-1742496829-1742486029"
+  },
+  {
+    "id": 132,
+    "name": "Cartoon Network",
+    "url": "https://rds.live/cartoon-network/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/cartoonnetworksd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=f5534bb6f4d8efc4c9141e282786c3a3a029d88e-40a0fffeb9d708a88fecf4c5aed6f24b-1742496842-1742486042"
+  },
+  {
+    "id": 133,
+    "name": "Jim Jam",
+    "url": "https://rds.live/jim-jam/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/jimjamsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9f604efcab4240500d2f87a0e1c754b561b72a9a-fb5f1fd97e7adae2a8dd4ae8ceec9b32-1742496855-1742486055"
+  },
+  {
+    "id": 134,
+    "name": "Disney Junior",
+    "url": "https://rds.live/disney-junior/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/disneyjunior/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=44d03563baf5b527d29f288a1a3775cb84bcea27-ad5c5f9049257f3213455ad307293784-1742496869-1742486069"
+  },
+  {
+    "id": 135,
+    "name": "Warner TV",
+    "url": "https://rds.live/warner-tv/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/warner/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=dfcb1c637ab887069307723147ae9d65fe4d9cb6-1c5ab2d072d87a8195e6209a3ec74ff9-1742496882-1742486082"
+  },
+  {
+    "id": 136,
+    "name": "Prima Comedy",
+    "url": "https://rds.live/prima-comedy/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/primacomedysd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=99f3e45c1d0700472a18f36970788d46849c6770-679a8a8c3778b14d81beb3891063a862-1742496895-1742486095"
+  },
+  {
+    "id": 137,
+    "name": "Film-Café",
+    "url": "https://rds.live/film-cafe/",
+    "category": "Филм",
+    "playurl": "https://p11.magicplaces.eu/filmcafesd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=6f423401f36080b5740ef08da6719e7a2fd04b09-8f83ba5d869540cc98f0e1a7112a92bc-1742496908-1742486108"
+  },
+  {
+    "id": 138,
+    "name": "PrimarSport 1",
+    "url": "https://rds.live/primasport-1hd-ro2/",
+    "category": "Спорт",
+    "playurl": "https://p13.magicplaces.eu/primasport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=a980d71a2f3a67f1d8cb7f8e04b79de2622ea41e-1a500687c3d21a88e7e61e0bf194a867-1742496922-1742486122"
+  },
+  {
+    "id": 139,
+    "name": "PrimarSport 2",
+    "url": "https://rds.live/primasport-2-hd-ro1/",
+    "category": "Спорт",
+    "playurl": "https://p13.magicplaces.eu/primasport2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=435b32028595451d0db6af1527f5c418c7bc2784-2b1cf79f7db2b925a29eaf0b55c6ca2a-1742496935-1742486135"
+  },
+  {
+    "id": 140,
+    "name": "PrimarSport 3",
+    "url": "https://rds.live/primasport-3-hd-ro1/",
+    "category": "Спорт",
+    "playurl": "https://p13.magicplaces.eu/primasport3sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=52f68b882e7adaa4ce9f5179158b717959af3bd9-e822da11f011f69b6f9e5b0b90b67a9c-1742496948-1742486148"
+  },
+  {
+    "id": 141,
+    "name": "DigiSport 1",
+    "url": "https://rds.live/digisport/",
+    "category": "Спорт",
+    "playurl": "https://p13.magicplaces.eu/digisport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=af3127faa51aca1127bce8beab9c2067a26c7b1e-6bc43061bb715160d05732d0f33716f8-1742496961-1742486161"
+  },
+  {
+    "id": 142,
+    "name": "DigiSport 2",
+    "url": "https://rds.live/digisport-2-hd-ro3/",
+    "category": "Спорт",
+    "playurl": "https://p13.magicplaces.eu/digisport2hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=b94dd38613a78d0d1f70744591e91ba9ebdedf8b-1dd3a537b5207798ef0f7c2eb7be5653-1742496975-1742486175"
+  },
+  {
+    "id": 143,
+    "name": "DigiSport 3",
+    "url": "https://rds.live/digisport-3-hd-ro3/",
+    "category": "Спорт",
+    "playurl": "https://p13.magicplaces.eu/digisport3hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=c7f88a496ba857111b0753bf20dc2efcf2278d50-5dbf6e93fe6ec5293de45c121454705b-1742496988-1742486188"
+  },
+  {
+    "id": 144,
+    "name": "DigiSport 4",
+    "url": "https://rds.live/digisport-4-hd-ro3/",
+    "category": "Спорт",
+    "playurl": "https://p13.magicplaces.eu/digisport4hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=472f8412b379317dd65ab44becb095577f9d3f11-b299d405504ed22ff716a6b8bd91c5df-1742497001-1742486201"
+  },
+  {
+    "id": 145,
+    "name": "TVR Sport",
+    "url": "https://rds.live/tvr-sport/",
+    "category": "Спорт",
+    "playurl": "https://p11.magicplaces.eu/tvrsport/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=5611bddecdbebfe370af2141fcd3d391ba156fc5-0d00eaf727f52311b6661f5f6cc851e2-1742497015-1742486215"
+  },
+  {
+    "id": 146,
+    "name": "Sport Extra",
+    "url": "https://rds.live/sportextra-hd/",
+    "category": "Спорт",
+    "playurl": "https://p11.magicplaces.eu/sportextrahd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=706077e946fb497544f30ada62ea8dd2ce8ccd11-261f17b8d223e8e0fe8cf61d9c33c333-1742497027-1742486227"
+  },
+  {
+    "id": 147,
+    "name": "EuroSport 1",
+    "url": "https://rds.live/eurosport-1-hd-c1/",
+    "category": "Спорт",
+    "playurl": "https://p11.magicplaces.eu/eurosportsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=b02cf435381254026a8fe73c453f67335aa81da0-19f9270d016852916ae12a8618d97371-1742497041-1742486241"
+  },
+  {
+    "id": 148,
+    "name": "EuroSport 2",
+    "url": "https://rds.live/eurosport-2-hd-1/",
+    "category": "Спорт",
+    "playurl": "https://p11.magicplaces.eu/eurosport2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=a5042caf679e178a1697c3fc549d12aeb76babb5-262f95d12d045f08bc9a01707824c438-1742497054-1742486254"
+  },
+  {
+    "id": 149,
+    "name": "Pro Arena",
+    "url": "https://rds.live/pro-arena-hd-2/",
+    "category": "Спорт",
+    "playurl": "https://p11.magicplaces.eu/proarenahd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=dcaeed0fa49bd2ee729f26c7a18cc7b121643456-bb9a1b205d15f3834dd64fdc15496bbd-1742497067-1742486267"
+  },
+  {
+    "id": 150,
+    "name": "U TV",
+    "url": "https://rds.live/u-tv/",
+    "category": "Музика",
+    "playurl": "https://p13.magicplaces.eu/utv/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=4f985a752a3948afdff922331db90eb7765b6fc5-586787ee5e7c96bba1aa1571f454dc67-1742497081-1742486281"
+  },
+  {
+    "id": 151,
+    "name": "Kiss TV",
+    "url": "https://rds.live/kiss-tv/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/kisstv/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=b91aa0e4cd54ad59d0635e751a09ca76886637f9-0e0ebd90a3b4982c28ce8b2b12f166b1-1742497094-1742486294"
+  },
+  {
+    "id": 152,
+    "name": "Atomic",
+    "url": "https://rds.live/atomic/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/atomictvsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=b8a174576c51ffb1bdd29cd922048994edd7ed44-e4ce5aaf9409a0b597076a1b81218320-1742497107-1742486307"
+  },
+  {
+    "id": 153,
+    "name": "Hit Music Channel",
+    "url": "https://rds.live/hit-music-channel-2/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/hitmusic/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=6090cdf87465f831f36a9f8d6b12f00caf5744e9-126061b789e40081bfc060353fddedc7-1742497120-1742486320"
+  },
+  {
+    "id": 154,
+    "name": "Mezzo",
+    "url": "https://rds.live/mezzo-ro/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/mezzo/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=067375dde3cc67c295e8198ef55258aed2accd71-18657f5c4cf60965c2140f9a8f348f7a-1742497133-1742486333"
+  },
+  {
+    "id": 155,
+    "name": "Magic TV",
+    "url": "https://rds.live/magic-tv/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/magictv/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=c84ea9565c624128259096386df871f094e9fa23-a04afd37c0fac549647f1d548082e7a6-1742497147-1742486347"
+  },
+  {
+    "id": 156,
+    "name": "Tv Folclor",
+    "url": "https://rds.live/tvr-folclor-hd/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/tvrfolclor/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=a76e90f11041bfca7c671a93d936b5b9b2ca5f32-f0a57d35506392c191a2eb957ca6a3bc-1742497160-1742486360"
+  },
+  {
+    "id": 157,
+    "name": "Balcan Music",
+    "url": "https://rds.live/balcan-music-tv/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/balkanmusicsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=d16ee683fb43ae851ae9c8d76622c4920f27dbfe-0ad9a2ed80e21a3be66756cde0303040-1742497173-1742486373"
+  },
+  {
+    "id": 158,
+    "name": "ZU TV",
+    "url": "https://rds.live/zu-tv/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/zutvsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=191e1621273e02bcfea556ad2be77893187942ff-ad027c9a21fddf15d6a6d0dd983cd81f-1742497186-1742486386"
+  },
+  {
+    "id": 159,
+    "name": "MTV",
+    "url": "https://rds.live/mtv/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/mtveuropesd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=e568324c910fe4b42a5aecfe5d30763bf4b6d31a-c71a5420a1a5e62c73fc06449c0e8ec8-1742497200-1742486400"
+  },
+  {
+    "id": 160,
+    "name": "MTV 80's",
+    "url": "https://rds.live/mtv-80s/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/mtv00sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=238246dab23bb6baf725da5bae92b4a386df673b-ddee7b42187adb6b43c3079e7f48a362-1742497213-1742486413"
+  },
+  {
+    "id": 161,
+    "name": "Party Mix",
+    "url": "https://rds.live/party-mix/",
+    "category": "Музика",
+    "playurl": "https://p11.magicplaces.eu/partymixsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=171fc73e6874cfcdad9561434cfeb5e97663dd26-021ed454dbb2165f3af4686651841068-1742497226-1742486426"
+  },
+  {
+    "id": 162,
+    "name": "History Channel",
+    "url": "https://rds.live/history-channel/",
+    "category": "Документарни",
+    "playurl": "https://p11.magicplaces.eu/historychannelsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=cde8bdc25af5aef11e52ba4064f4b14b7233b240-5a44e31ea0de425658286af20c1b91e8-1742497239-1742486439"
+  },
+  {
+    "id": 163,
+    "name": "Viasat Nature",
+    "url": "https://rds.live/viasat-nature/",
+    "category": "Документарни",
+    "playurl": "https://p11.magicplaces.eu/viasatnaturesd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=f700dd321e358e1d5f68a4e582c7bc2061fa3ed6-5da3d1d1ac9bbadfa72518a69080a183-1742497253-1742486453"
+  },
+  {
+    "id": 164,
+    "name": "Viasat History",
+    "url": "https://rds.live/viasat-history/",
+    "category": "Документарни",
+    "playurl": "https://p11.magicplaces.eu/viasathistorysd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=f4589ef972297a6141e7087781f2dcb07fec79b1-46f622baafb1dce88a2b3de4ed6a95ae-1742497266-1742486466"
+  },
+  {
+    "id": 165,
+    "name": "Viasat Explorer",
+    "url": "https://rds.live/viasat-explore/",
+    "category": "Документарни",
+    "playurl": "https://p11.magicplaces.eu/viasatexploresd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=ed7ed29c75b3b8f78fa17656f5eeb0a00f65fa79-c75435c13f069f91ebb1dd5e436d3b16-1742497279-1742486479"
+  },
+  {
+    "id": 166,
+    "name": "DaVinci",
+    "url": "https://rds.live/davinci/",
+    "category": "Документарни",
+    "playurl": "https://p11.magicplaces.eu/davinci/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=1266efaf658a5757a15be9a2f03f0b2a22ea3ba4-93e060ea39aac7fdcbefdf38b6ec8fe1-1742497292-1742486492"
+  },
+  {
+    "id": 167,
+    "name": "Discovery Channel",
+    "url": "https://rds.live/discovery-channel/",
+    "category": "Документарни",
+    "playurl": "https://p11.magicplaces.eu/discoverysd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=28ca8cd5a3364db6fc140bf8d1a62f0bd8755929-883b0a9ad7d9d5e405b3854c84893aa6-1742497306-1742486506"
+  },
+  {
+    "id": 168,
+    "name": "National Geographic",
+    "url": "https://rds.live/national-geographic/",
+    "category": "Документарни",
+    "playurl": "https://p11.magicplaces.eu/natgeo/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=7acd28eb661f0cc1313623cf01f20b283a814b48-004e4c8798cf9143732dbff753e38cd6-1742497319-1742486519"
+  },
+  {
+    "id": 169,
+    "name": "National Geographic Wild",
+    "url": "https://rds.live/national-geographic-wild/",
+    "category": "Документарни",
+    "playurl": "https://p11.magicplaces.eu/natgeowildsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=007ae4a0d59d2da8f4cefe7ed96f977b23461280-03cba6b8a5088335315264c103108a1f-1742497332-1742486532"
+  },
+  {
+    "id": 170,
+    "name": "National Geographic People",
+    "url": "https://rds.live/national-geographic-people/",
+    "category": "Документарни"
+  },
+  {
+    "id": 171,
+    "name": "Pro TV",
+    "url": "https://rds.live/pro-tv-hd-8/",
+    "category": "Романски",
+    "playurl": "https://p9.magicplaces.eu/protv/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=491daaafec5afd659e4fd515ac92f000e7c23b97-4e3040ee04e870771f25f389b191c22f-1742497359-1742486559"
+  },
+  {
+    "id": 172,
+    "name": "Antena 1",
+    "url": "https://rds.live/antena-1-22/",
+    "category": "Романски",
+    "playurl": "https://p13.magicplaces.eu/antena1/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=a025089d3c46cb65a2c915435b6c35c1fa78107f-cd1b34710b1a0cc04e21fccd0bbe85b7-1742497372-1742486572"
+  },
+  {
+    "id": 173,
+    "name": "Kanal D",
+    "url": "https://rds.live/kanal-d-ro-3/",
+    "category": "Романски",
+    "playurl": "https://p11.magicplaces.eu/kanald/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=7c073f947073daf9bba21f8a57f97f5a72c31dc0-e86222423c7252f274bdb79405ad2071-1742497385-1742486585"
+  },
+  {
+    "id": 174,
+    "name": "Prima TV",
+    "url": "https://rds.live/prima-tv-hd/",
+    "category": "Романски",
+    "playurl": "https://p11.magicplaces.eu/prima/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=0b516333e9a79180e751690ebb3ebb0dba269ff6-4638b6ae99a3664d593c2d229614282c-1742497399-1742486599"
+  },
+  {
+    "id": 175,
+    "name": "TVR 1",
+    "url": "https://rds.live/tvr-1-hd/",
+    "category": "Романски",
+    "playurl": "https://p11.magicplaces.eu/tvr1hd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9645232225b1fca4a293be11dec3a9b8022c13f1-b951fc86755480506fbd0bd4695857b8-1742497412-1742486612"
+  },
+  {
+    "id": 176,
+    "name": "NCN",
+    "url": "https://rds.live/ncn/",
+    "category": "Романски",
+    "playurl": "https://p11.magicplaces.eu/ncnsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=50443f12cb55e9d9e7e064a7ce09defb153eba4a-ad94efd8775e1a15030abc95bb8ecf1a-1742497425-1742486625"
+  },
+  {
+    "id": 177,
+    "name": "Nickelodeon ",
+    "url": "https://rds.live/nickelodeon/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/nickelodeonsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=07a6f6a15ffb52b787242a7be8262aa3654317b7-7db29d9410225119bc9231435b8e119b-1742497438-1742486638"
+  },
+  {
+    "id": 178,
+    "name": "Boomerang ",
+    "url": "https://rds.live/boomerang/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/cartoonito-boomerang/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4cef37ef300541f0354f5794c4940c202b51d697-40e9bea38bbd02a5774a5b2cded0b375-1742497451-1742486651"
+  },
+  {
+    "id": 179,
+    "name": "Minimax",
+    "url": "https://rds.live/minimax/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/minimax/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=b731a01d332f7b3e32ac19ce0cc0aa1106d96079-3ed92f2e0d051ef7325fda645472ed79-1742497465-1742486665"
+  },
+  {
+    "id": 180,
+    "name": "Nick Jr.",
+    "url": "https://rds.live/nick-jr/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/nickjrsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=f6a3ffd281e2a587733d04f23e59b8056c310353-9ef97ef0057d568cabbae04aa54b11e6-1742497478-1742486678"
+  },
+  {
+    "id": 181,
+    "name": "Duck TV",
+    "url": "https://rds.live/duck-tv/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/ducktvsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=71743c64dc527b313c753f5c530eab0035824395-f4de8e733b9fbae60328857d1f8a7136-1742497491-1742486691"
+  },
+  {
+    "id": 182,
+    "name": "Disney Channel",
+    "url": "https://rds.live/disney-channel/",
+    "category": "Детски",
+    "playurl": "https://p11.magicplaces.eu/disneychannelsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=6a0e15553d460a07da089a7193515d7c80e233bd-3c429f20887696bf7bfcc8e024c1bc53-1742497504-1742486704"
   }
 ]

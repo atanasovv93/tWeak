@@ -3,11 +3,15 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import { fileURLToPath } from 'url';
+import { exec } from 'child_process';
+import util from 'util';
+
+const execPromise = util.promisify(exec);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// const CHANNELS_FILE_PATH = path.resolve(__dirname, './channels.json');
+const CHANNELS_FILE_PATH = path.resolve(__dirname, './channels.json');
 const CHANNELSMK_FILE_PATH = path.resolve(__dirname, './channelsmk.json');
 const ALL_CHANNELS_FILE_PATH = path.resolve(__dirname, './allchannels.json');
 const M3U_FILE_PATH = path.resolve(__dirname, './network_requests.m3u');
@@ -26,8 +30,8 @@ async function processChannels() {
   let browser;
   try {
     const channelsmk = await readJsonFile(CHANNELSMK_FILE_PATH);
-    // const channels = await readJsonFile(CHANNELS_FILE_PATH);
-    const allChannels = [...channelsmk];
+    const channels = await readJsonFile(CHANNELS_FILE_PATH);
+    const allChannels = [...channelsmk, ...channels];
     console.log('📡 Processing channels:', allChannels.length);
 
     puppeteer.use(StealthPlugin());
@@ -45,13 +49,12 @@ async function processChannels() {
             console.log(`✅ Updated playurl for ${channel.name}: ${playurl}`);
             await fs.writeFile(ALL_CHANNELS_FILE_PATH, JSON.stringify(allChannels, null, 2), 'utf-8');
           }
-          const m3uContent = `#EXTINF:-1 tvg-id="${channel.id}" tvg-name="${channel.name}" tvg-logo="" group-title="${channel.category}", ${channel.name}
-${playurl}\n`;
+          const m3uContent = `#EXTINF:-1 tvg-id="${channel.id}" tvg-name="${channel.name}" tvg-logo="" group-title="${channel.category}", ${channel.name}\n${playurl}\n`;
           let existingContent = '';
           try {
             existingContent = await fs.readFile(M3U_FILE_PATH, 'utf-8');
           } catch (err) {}
-          if (!existingContent.includes(`channelId="${channel.id}"`)) {
+          if (!existingContent.includes(`tvg-id="${channel.id}"`)) {
             await fs.appendFile(M3U_FILE_PATH, m3uContent, 'utf8');
           }
         }
@@ -86,9 +89,7 @@ async function extractPlayUrl(page, channel) {
     });
 
     const selectedSelector = channel.url.includes('tvstanici.net') ? '.poster-icon' : '.video-placeholder';
-                              channel.url.includes('bg-gledai.video') ? '.play-wrapper .poster-icon' :
-                             '.video-placeholder';
-    const austrianSelector = channel.url.includes('2ix2.com') ? '#tvplayer > div.jw-controls.jw-reset > div.jw-display.jw-reset > div > div > div.jw-display-icon-container.jw-display-icon-display.jw-reset' : null;
+    const austrianSelector = channel.url.includes('t2.tvmak.com') ? '#video.videoLive' : null;
 
     const selectedExists = await page.$(selectedSelector);
     if (selectedExists) {
@@ -117,4 +118,40 @@ async function extractPlayUrl(page, channel) {
   }
 }
 
-processChannels().catch(err => console.error('❌ Unexpected error:', err));
+async function gitUpdate() {
+  try {
+    console.log('🔄 Pulling latest changes from GitHub...');
+    const pullResult = await execPromise('git pull origin main');
+    console.log(`✅ Executed "git pull origin main":`, pullResult.stdout || pullResult.stderr);
+
+    console.log('🚀 Processing channels...');
+    await processChannels();
+
+    console.log('📂 Adding updated files to Git...');
+    await execPromise('git add network_requests.m3u');
+    console.log(`✅ Executed "git add network_requests.m3u"`);
+
+    console.log('📝 Committing changes...');
+    const commitResult = await execPromise('git commit -m "Auto-update network_requests.m3u"');
+    console.log(`✅ Executed "git commit -m "Auto-update network_requests.m3u"":`, commitResult.stdout || commitResult.stderr);
+
+    console.log('⬆️ Pushing updates to GitHub...');
+    const pushResult = await execPromise('git push origin main');
+    console.log(`✅ Executed "git push origin main":`, pushResult.stdout || pushResult.stderr);
+
+    console.log('✅ Git update completed successfully.');
+  } catch (error) {
+    console.error('❌ Git update failed:', error);
+  }
+}
+
+async function startProcessingLoop() {
+  while (true) {
+    console.log('🔄 Restarting process...');
+    await gitUpdate();
+    console.log('✅ Process completed successfully. Waiting for 60 seconds...');
+    await new Promise(resolve => setTimeout(resolve, 60000));
+  }
+}
+
+startProcessingLoop().catch(err => console.error('❌ Unexpected error:', err));
