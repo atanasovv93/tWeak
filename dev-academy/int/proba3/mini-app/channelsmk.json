@@ -1,0 +1,405 @@
+[
+    {
+    "id": 105,
+    "name": "MRT 1",
+    "url": "https://tvstanici.net/mrt-1-zivo/",
+    "category": "Вести"
+},
+{   
+    "id": 106,
+    "name": "Sitel TV",
+    "url": "https://tvstanici.net/sitel-vo-zivo/",
+    "category": "Вести"
+},
+{
+    "id": 107,
+    "name": "Kanal 5",
+    "url": "https://tvstanici.net/kanal5-vo-zivo/",
+    "category": "Вести"
+},
+{
+    "id": 108,
+    "name": "Telma TV",
+    "url": "https://tvstanici.net/telma-vo-zivo/",
+    "category": "Вести"
+},
+{
+    "id": 109,
+    "name": "Alfa TV",
+    "url": "https://tvstanici.net/alfa-vo-zivo/",
+    "category": "Вести"
+},
+{
+    "id": 110,
+    "name": "24 Vesti",
+    "url": "https://tvstanici.net/24-vesti-vo-zivo/",
+    "category": "Вести"
+},
+{
+    "id": 1,
+    "name": "Z1 TV",
+    "url": "https://www.z1tv.hr/hr/livestream/",
+    "category": "Вести"
+},
+{
+    "id": 2,
+    "name": "ORF",
+    "url": "https://www.2ix2.com/orf1/",
+    "category": "Вести"
+},
+{
+    "id": 3,
+    "name": "Servus TV",
+    "url": "https://www.2ix2.com/servus-tv/",
+    "category": "Вести"
+},
+{
+    "id": 4,
+    "name": "Super RTL",
+    "url": "https://www.2ix2.com/super-rtl-live/",
+    "category": "Вести"
+},
+{
+    "id": 5,
+    "name": "ARD TV",
+    "url": "https://www.2ix2.com/ard-de/",
+    "category": "Забава"
+},
+{
+    "id": 6,
+    "name": "ZDF TV",
+    "url": "https://www.2ix2.com/zdf-de/",
+    "category": "Забава"
+},
+{
+    "id": 7,
+    "name": "Vox TV",
+    "url": "https://www.2ix2.com/vox/",
+    "category": "Забава"
+
+},
+{
+    "id": 8,
+    "name": "N-TV",
+    "url": "https://www.2ix2.com/n-tv-live/",
+    "category": "Забава"
+},
+{
+    "id": 9,
+    "name": "Sat-Gold",
+    "url": "https://www.2ix2.com/sat1-gold/",
+    "category": "Забава"
+},
+{
+    "id": 10,
+    "name": "TLC TV",
+    "url": "https://www.2ix2.com/tlc/",
+    "category": "Забава"
+},
+{
+    "id": 11,
+    "name": "ZDF TV",
+    "url": "https://www.2ix2.com/zdf-de/",
+    "category": "Филм"
+},
+{
+    "id": 12,
+    "name": "One TV",
+    "url": "https://www.2ix2.com/one-tv/",
+    "category": "Филм"
+},
+{
+    "id": 13,
+    "name": "SiXX TV",
+    "url": "https://www.2ix2.com/sixx/",
+    "category": "Филм"
+},
+{
+    "id": 14,
+    "name": "Phoenix TV",
+    "url": "https://www.2ix2.com/phoenix/",
+    "category": "Документарни"
+},
+{
+    "id": 15,
+    "name": "Max Sport 1",
+    "url": "https://www.gledaitv.live/watch-tv/9/max-sport-bg-1-online",
+    "category": "Спорт"
+},
+{
+    "id": 16,
+    "name": "Max Sport 2",
+    "url": "https://www.gledaitv.live/watch-tv/10/max-sport-2-bg-online",
+    "category": "Спорт"
+},
+{
+    "id": 17,
+    "name": "Max Sport 3",
+    "url": "https://www.gledaitv.live/watch-tv/11/max-sport-3-bg-online",
+    "category": "Спорт"
+},
+{
+    "id": 18,
+    "name": "Max Sport 4",
+    "url": "https://www.gledaitv.live/watch-tv/13/diema-sport-online",
+    "category": "Спорт"
+},
+{
+    "id": 19,
+    "name": "Diema Sport",
+    "url": "https://www.gledaitv.live/watch-tv/65/max-sport-4-bg-online",
+    "category": "Спорт"
+},
+{
+    "id": 20,
+    "name": "Diema Sport 2",
+    "url": "https://www.gledaitv.live/watch-tv/12/diema-sport-2-online",
+    "category": "Спорт"
+},
+{
+    "id": 21,
+    "name": "Diema Sport 3",
+    "url": "https://www.gledaitv.live/watch-tv/38/diema-sport-3-online",
+    "category": "Спорт"
+},
+{
+    "id": 22,
+    "name": "Nova Sport",
+    "url": "https://www.gledaitv.live/watch-tv/32/nova-sport-online",
+    "category": "Спорт"
+},
+{
+    "id": 23,
+    "name": "Ring TV",
+    "url": "https://www.gledaitv.live/watch-tv/33/eurosport-1-online",
+    "category": "Спорт"
+},
+{
+    "id": 24,
+    "name": "Eurosport 1 BG",
+    "url": "https://www.gledaitv.live/watch-tv/31/ring-bg-online",
+    "category": "Спорт"
+},
+{
+    "id": 25,
+    "name": "Eurosport 2 BG",
+    "url": "https://www.gledaitv.live/watch-tv/34/eurosport-2-online",
+    "category": "Спорт"
+},
+{
+    "id": 26,
+    "name": "Movie Star",
+    "url": "https://www.gledaitv.live/watch-tv/43/movie-star-online",
+    "category": "Филм"
+},
+{
+    "id": 27,
+    "name": "Kino Nova",
+    "url": "https://www.gledaitv.live/watch-tv/44/kino-nova-online",
+    "category": "Филм"
+},
+{
+    "id": 27,
+    "name": "Fox Crime",
+    "url": "https://www.gledaitv.live/watch-tv/45/fox-crime-online",
+    "category": "Филм"
+},
+{
+    "id": 28,
+    "name": "Fox Life",
+    "url": "https://www.gledaitv.live/watch-tv/46/fox-life-online",
+    "category": "Филм"
+},
+{
+    "id": 29,
+    "name": "Fox",
+    "url": "https://www.gledaitv.live/watch-tv/47/fox-online",
+    "category": "Филм"
+},
+{
+    "id": 30,
+    "name": "FilmBox BG",
+    "url": "https://www.gledaitv.live/watch-tv/50/film-box-online",
+    "category": "Филм"
+},
+{
+    "id": 31,
+    "name": "FilmBox Plus",
+    "url": "https://www.gledaitv.live/watch-tv/48/film-box-plus-online",
+    "category": "Филм"
+},
+{
+    "id": 32,
+    "name": "FilmBox Extra",
+    "url": "https://www.gledaitv.live/watch-tv/49/film-box-extra-online",
+    "category": "Филм"
+},
+{
+    "id": 33,
+    "name": "Diema",
+    "url": "https://www.gledaitv.live/watch-tv/52/diema-online",
+    "category": "Филм"
+},
+{
+    "id": 34,
+    "name": "Diema Family",
+    "url": "https://www.gledaitv.live/watch-tv/51/diema-family-online",
+    "category": "Филм"
+},
+{
+    "id": 35,
+    "name": "bTV Lady",
+    "url": "https://www.gledaitv.live/watch-tv/53/btv-lady-online",
+    "category": "Филм"
+},
+{
+    "id": 36,
+    "name": "bTV Comedy",
+    "url": "https://www.gledaitv.live/watch-tv/54/btv-comedy-online",
+    "category": "Филм"
+},
+{
+    "id": 37,
+    "name": "bTV Cinema",
+    "url": "https://www.gledaitv.live/watch-tv/55/btv-cinema-online",
+    "category": "Филм"
+},
+{
+    "id": 38,
+    "name": "bTV Action",
+    "url": "https://www.gledaitv.live/watch-tv/56/btv-action-online",
+    "category": "Филм"
+},
+{
+    "id": 39,
+    "name": "AXN BG",
+    "url": "https://www.gledaitv.live/watch-tv/59/axn-online",
+    "category": "Филм"
+},
+{
+    "id": 40,
+    "name": "AMC BG",
+    "url": "https://www.gledaitv.live/watch-tv/66/amc-online",
+    "category": "Филм"
+},
+{
+    "id": 41,
+    "name": "Epic Drama BG",
+    "url": "https://www.gledaitv.live/watch-tv/75/epic-drama-online",
+    "category": "Филм"
+},
+{
+    "id": 42,
+    "name": "Animal Planet BG",
+    "url": "https://www.gledaitv.live/watch-tv/17/animal-planet-online",
+    "category": "Документарни"
+},
+{
+    "id": 43,
+    "name": "Discovery Channel BG",
+    "url": "https://www.gledaitv.live/watch-tv/18/discovery-channel-online",
+    "category": "Документарни"
+},
+{
+    "id": 44,
+    "name": "DocuBox BG",
+    "url": "https://www.gledaitv.live/watch-tv/19/docubox-online",
+    "category": "Документарни"
+},
+{
+    "id": 45,
+    "name": "History Channel BG",
+    "url": "https://www.gledaitv.live/watch-tv/21/history-channel-online",
+    "category": "Документарни"
+},
+{
+    "id": 46,
+    "name": "Investigation Discovery BG",
+    "url": "https://www.gledaitv.live/watch-tv/22/investigation-discovery-online",
+    "category": "Документарни"
+},
+{
+    "id": 47,
+    "name": "National Geographic Channel BG",
+    "url": "https://www.gledaitv.live/watch-tv/23/national-geographic-channel",
+    "category": "Документарни"
+},
+{
+    "id": 48,
+    "name": "Nat Geo Wild BG",
+    "url": "https://www.gledaitv.live/watch-tv/24/nat-geo-wild-online",
+    "category": "Документарни"
+},
+{
+    "id": 49,
+    "name": "Viasat History BG",
+    "url": "https://www.gledaitv.live/watch-tv/27/viasat-history-online",
+    "category": "Документарни"
+},
+{
+    "id": 50,
+    "name": "Viasat Nature BG",
+    "url": "https://www.gledaitv.live/watch-tv/28/viasat-nature-online",
+    "category": "Бугарски"
+},
+{
+    "id": 51,
+    "name": "BNT 1",
+    "url": "https://www.gledaitv.live/watch-tv/64/bnt-1-online",
+    "category": "Бугарски"
+},
+{
+    "id": 52,
+    "name": "BNT 2",
+    "url": "https://www.gledaitv.live/watch-tv/63/bnt-2-online",
+    "category": "Бугарски"
+},
+{
+    "id": 53,
+    "name": "BNT 3",
+    "url": "https://www.gledaitv.live/watch-tv/62/bnt-3-online",
+    "category": "Бугарски"
+}, 
+{
+    "id": 54,
+    "name": "BNT 4",
+    "url": "https://www.gledaitv.live/watch-tv/42/bnt-4-online",
+    "category": "Бугарски"
+},
+{
+    "id": 55,
+    "name": "bTV BG",
+    "url": "https://www.gledaitv.live/watch-tv/61/btv-online",
+    "category": "Бугарски"
+},
+{
+    "id": 56,
+    "name": "NovaTV BG",
+    "url": "https://www.gledaitv.live/watch-tv/60/nova-tv-online",
+    "category": "Бугарски"
+},
+{
+    "id": 57,
+    "name": "Balkanika TV",
+    "url": "https://www.gledaitv.live/watch-tv/73/balkanika-tv-online",
+    "category": "Музика"
+},
+{
+    "id": 58,
+    "name": "FEN TV",
+    "url": "https://www.gledaitv.live/watch-tv/74/fen-tv-online",
+    "category": "Музика"
+},
+{
+    "id": 59,
+    "name": "Planeta TV",
+    "url": "https://www.gledaitv.live/watch-tv/40/planeta-hd-online",
+    "category": "Музика"
+},
+{
+    "id": 60,
+    "name": "TLC BG",
+    "url": "https://www.gledaitv.live/watch-tv/36/tlc-online",
+    "category": "Музика"
+}
+]
