@@ -1,55 +1,61 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="105" tvg-name="MRT 1" tvg-logo="" group-title="Вести", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453055902&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjM4OjMxIFBNJmhhc2hfdmFsdWU9Z01FakNqdkdKZURLaHppeEQ4VTFMdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453056202&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDEyOjAwOjU1IEFNJmhhc2hfdmFsdWU9NEhDRUNnd1o3NFRwQUxEU3Q4OFlqdz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV" tvg-logo="" group-title="Вести", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453055910&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjM4OjUxIFBNJmhhc2hfdmFsdWU9bTIvNEVOa09MU21QREU3NE5nemFRdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453056206&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDEyOjAxOjEyIEFNJmhhc2hfdmFsdWU9a0IvY253UU5KeHNQakhzakpJQnAyZz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5" tvg-logo="" group-title="Вести", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11312060&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjM5OjA4IFBNJmhhc2hfdmFsdWU9ZEJXSjRHbWlUcWd2TU9HRC9SSkl0Zz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11312317&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDEyOjAxOjI5IEFNJmhhc2hfdmFsdWU9U3kyWHl0VkNjc1pBNDJKeUdId0doUT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="108" tvg-name="Telma TV" tvg-logo="" group-title="Вести", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453055917&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjM5OjI1IFBNJmhhc2hfdmFsdWU9UDJkRG5oVU4ycDg3bUE0TkRrSHIxdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453056211&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDEyOjAxOjQ2IEFNJmhhc2hfdmFsdWU9cTlqNFN4YVRMcXZDTUpFdU92Y3B6Zz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="109" tvg-name="Alfa TV" tvg-logo="" group-title="Вести", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453055920&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjM5OjQyIFBNJmhhc2hfdmFsdWU9V1R4YWJGWU40OVpnTVRhV0s0NnhyUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453056215&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDEyOjAyOjAzIEFNJmhhc2hfdmFsdWU9UUFWVEk3dzl5cnpxZHc2SzI3SXB5Zz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="110" tvg-name="24 Vesti" tvg-logo="" group-title="Вести", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453055925&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI1IDExOjM5OjU4IFBNJmhhc2hfdmFsdWU9QXJrMkNjVGR1ekxLSnc3eFdxcXl1Zz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453056221&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDEyOjAyOjIwIEFNJmhhc2hfdmFsdWU9OVBIMnhRVUp1bjFBWDFURVgvNmxWdz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="104" tvg-name="TV 21" tvg-logo="" group-title="Вести", TV 21
 https://t2.tvmak.com/tv/TV21MK.m3u8?uF6RMz2KHX
+#EXTINF:-1 tvg-id="111" tvg-name="HBO 1" tvg-logo="" group-title="Филм", HBO 1
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="HBO 2" tvg-logo="" group-title="Филм", HBO 2
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="HBO 3" tvg-logo="" group-title="Филм", HBO 3
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="SkyShowTime 1" tvg-logo="" group-title="Филм", SkyShowTime 1
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="Cinemax 2" tvg-logo="" group-title="Филм", Cinemax 2
+#EXTINF:-1 tvg-id="115" tvg-name="SkyShowTime 2" tvg-logo="" group-title="Филм", SkyShowTime 2
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="FilmNow" tvg-logo="" group-title="Филм", FilmNow
+#EXTINF:-1 tvg-id="116" tvg-name="Cinemax 1" tvg-logo="" group-title="Филм", Cinemax 1
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="AMC" tvg-logo="" group-title="Филм", AMC
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="DIVA" tvg-logo="" group-title="Филм", DIVA
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="FilmBox" tvg-logo="" group-title="Филм", FilmBox
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Filmbox Premium" tvg-logo="" group-title="Филм", Filmbox Premium
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="124" tvg-name="TV1000" tvg-logo="" group-title="Филм", TV1000
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="AXN" tvg-logo="" group-title="Филм", AXN
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="AXN Black" tvg-logo="" group-title="Филм", AXN Black
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="128" tvg-name="AXN Spin" tvg-logo="" group-title="Филм", AXN Spin
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="129" tvg-name="Epic Drama" tvg-logo="" group-title="Филм", Epic Drama
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="Comedy Central" tvg-logo="" group-title="Филм", Comedy Central
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="Pro Cinema" tvg-logo="" group-title="Филм", Pro Cinema
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="Cartoon Network" tvg-logo="" group-title="Детски", Cartoon Network
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="Jim Jam" tvg-logo="" group-title="Детски", Jim Jam
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="135" tvg-name="Warner TV" tvg-logo="" group-title="Филм", Warner TV
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="PrimarSport 1" tvg-logo="" group-title="Спорт", PrimarSport 1
+#EXTINF:-1 tvg-id="136" tvg-name="Prima Comedy" tvg-logo="" group-title="Филм", Prima Comedy
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="DigiSport 1" tvg-logo="" group-title="Спорт", DigiSport 1
+#EXTINF:-1 tvg-id="139" tvg-name="PrimarSport 2" tvg-logo="" group-title="Спорт", PrimarSport 2
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="DigiSport 2" tvg-logo="" group-title="Спорт", DigiSport 2
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="TVR Sport" tvg-logo="" group-title="Спорт", TVR Sport
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="147" tvg-name="EuroSport 1" tvg-logo="" group-title="Спорт", EuroSport 1
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="Pro Arena" tvg-logo="" group-title="Спорт", Pro Arena
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="150" tvg-name="U TV" tvg-logo="" group-title="Музика", U TV
+#EXTINF:-1 tvg-id="143" tvg-name="DigiSport 3" tvg-logo="" group-title="Спорт", DigiSport 3
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="Hit Music Channel" tvg-logo="" group-title="Музика", Hit Music Channel
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
@@ -57,35 +63,27 @@ https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="Magic TV" tvg-logo="" group-title="Музика", Magic TV
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="Tv Folclor" tvg-logo="" group-title="Музика", Tv Folclor
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="157" tvg-name="Balcan Music" tvg-logo="" group-title="Музика", Balcan Music
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="MTV" tvg-logo="" group-title="Музика", MTV
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="160" tvg-name="MTV 80s" tvg-logo="" group-title="Музика", MTV 80s
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="161" tvg-name="Party Mix" tvg-logo="" group-title="Музика", Party Mix
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="History Channel" tvg-logo="" group-title="Документарни", History Channel
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="163" tvg-name="Viasat Nature" tvg-logo="" group-title="Документарни", Viasat Nature
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="164" tvg-name="Viasat History" tvg-logo="" group-title="Документарни", Viasat History
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="Viasat Explorer" tvg-logo="" group-title="Документарни", Viasat Explorer
+#EXTINF:-1 tvg-id="166" tvg-name="Da Vinci" tvg-logo="" group-title="Документарни", Da Vinci
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="167" tvg-name="Discovery Channel" tvg-logo="" group-title="Документарни", Discovery Channel
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="168" tvg-name="National Geographic" tvg-logo="" group-title="Документарни", National Geographic
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="Pro TV" tvg-logo="" group-title="Романски", Pro TV
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="173" tvg-name="Kanal D" tvg-logo="" group-title="Романски", Kanal D
-https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="174" tvg-name="Prima TV" tvg-logo="" group-title="Романски", Prima TV
+#EXTINF:-1 tvg-id="172" tvg-name="Antena 1" tvg-logo="" group-title="Романски", Antena 1
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="175" tvg-name="TVR 1" tvg-logo="" group-title="Романски", TVR 1
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="176" tvg-name="NCN" tvg-logo="" group-title="Романски", NCN
+#EXTINF:-1 tvg-id="179" tvg-name="Minimax" tvg-logo="" group-title="Детски", Minimax
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="178" tvg-name="Boomerang" tvg-logo="" group-title="Детски", Boomerang
+#EXTINF:-1 tvg-id="180" tvg-name="Nick Jr." tvg-logo="" group-title="Детски", Nick Jr.
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
