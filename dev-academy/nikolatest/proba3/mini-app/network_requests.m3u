@@ -1,68 +1,68 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="111" tvg-name="HBO", HBO
-https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=fd780d8ccec150d6bb1c89079adfab101a57ecb7-950672d654fac076bf774bf1955b38dc-1742684449-1742673649
+https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=c8ea8d73f71a5cacd2572ee0f7cc16d0d588f284-85a5d540c5f56ee31d2270cbdbfc1e09-1742685879-1742675079
 #EXTINF:-1 tvg-id="112" tvg-name="HBO 2", HBO 2
-https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=8a654f4774b60c509a67d8dbe357ea43829fbc84-e73abe3773d97500325fab6f77481335-1742684464-1742673664
+https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=97806f565f7c171304b27c7f7c0bc62aee60d92b-913af5f4e4dafc73e0cfbc4d06a5268e-1742685894-1742675094
 #EXTINF:-1 tvg-id="113" tvg-name="HBO 3", HBO 3
-https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=2e15cb30643156b9d9e74966e8cb77f49c723b9e-d81d383485b8859b80dd7eae108a6131-1742684479-1742673679
+https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=897115c852646573c69661d9c8fe6a548d2d9851-aaffd01453cda62d0d4a7b286537f251-1742685910-1742675110
 #EXTINF:-1 tvg-id="114" tvg-name="SkyShowTime 1", SkyShowTime 1
-https://p11.magicplaces.eu/SkyShowTime/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=a5a1ebdb05fc77f04e9cb2c0479a44dec265ff82-63a2a5549fa1f5a7ce9253b80d064263-1742684495-1742673695
+https://p11.magicplaces.eu/SkyShowTime/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=fd6d1a38d35d95af914ee10af6ad9c1f1f88f6c2-6abe6c2d2ad8a3473400a3b248c0a13d-1742685925-1742675125
 #EXTINF:-1 tvg-id="115" tvg-name="SkyShowTime 2", SkyShowTime 2
-https://p11.magicplaces.eu/skyshowtime2hd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=5ae1cdd60fc082b3de3cdc18fcb9509967555957-152f2d5d1b89056146584ff8b8110dd8-1742684510-1742673710
+https://p11.magicplaces.eu/skyshowtime2hd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=5bda70a97b475d378e77cbabd001b70f032dac0c-1f1bfa3cc897f8fc4e16f32f07e836cb-1742685940-1742675140
 #EXTINF:-1 tvg-id="116" tvg-name="Cinemax 1", Cinemax 1
-https://p11.magicplaces.eu/cinemaxhd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=a8ec4ce5887f2e74b7e276253143f5978ba6a331-a1e89021e192533fd23dab3bc49cff3c-1742684525-1742673725
+https://p11.magicplaces.eu/cinemaxhd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=eb19747792dda3a78b4ef60300a3e973ab486608-d142429b28236fd9d64681afadaecae2-1742685955-1742675155
 #EXTINF:-1 tvg-id="117" tvg-name="Cinemax 2", Cinemax 2
-https://p11.magicplaces.eu/cinemax2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=cd7688932c082621eb1905f269dd383d4bda25d4-a77aef2e7039e9436cdcd78f3cc4d223-1742684540-1742673740
+https://p11.magicplaces.eu/cinemax2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=42f803770eca1931a5fde5eeac92b6cfa7b68007-537e40b5a9a83d17eab12511c3eec579-1742685970-1742675170
 #EXTINF:-1 tvg-id="118" tvg-name="BBC First", BBC First
-https://p11.magicplaces.eu/bbcfirsthd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=030a036b8a0076f35f9f98713a67dd9621572187-469a787ecc4e30ad7ddff6fa763e39b4-1742684555-1742673755
+https://p11.magicplaces.eu/bbcfirsthd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=98a99d00fca28b6bae81d2d8a050407a12654dd3-27fe4afcc49e40a1674783206a9c7cc1-1742685985-1742675185
 #EXTINF:-1 tvg-id="119" tvg-name="AMC", AMC
-https://p11.magicplaces.eu/amcsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=429e4735dde8c230ac6b8cf8bd2d5f375cdfe232-62e6969fe55f0966668565c32ef924cd-1742684571-1742673771
+https://p11.magicplaces.eu/amcsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=d11f4fa3dbc04b17e430488482f0943a71544498-7b85947f4ddb73947eecf828b96d8336-1742686000-1742675200
 #EXTINF:-1 tvg-id="120" tvg-name="FilmNow", FilmNow
-https://p13.magicplaces.eu/filmnow/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=e14dccc3ab4e1995d1d4517a8a8fb61a10bdf791-44fcc436bcd6953c5a011e19a27a882a-1742684590-1742673790
+https://p13.magicplaces.eu/filmnow/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=8b113e3f698d30e3d37749e3ba98092d4206af6a-08cb2b26b4eaffe71647ad0fa15b4b31-1742686015-1742675215
 #EXTINF:-1 tvg-id="121" tvg-name="DIVA", DIVA
-https://p11.magicplaces.eu/diva/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=ca4c679524be208aaabc8dd42bd8f820d60abc40-fbdc727a46002b3a846234f8cc66d7e1-1742684601-1742673801
+https://p11.magicplaces.eu/diva/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=6bf0d4e11733ddebc6f31ba401e22599f9a3c4de-7d177034442a70c297a9194aa58d2cb1-1742686030-1742675230
 #EXTINF:-1 tvg-id="122" tvg-name="FilmBox", FilmBox
-https://p13.magicplaces.eu/30.backup.filmbox/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=33c2aef8adabf8dc883ba9e10765a6345ee2ed10-7a2394f33fbe232a6129b413d5a948c9-1742684616-1742673816
+https://p13.magicplaces.eu/30.backup.filmbox/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=6ccf8a65909a4e0f91e1d8a7d4bbe14f2a6d314a-28e39fea14a8c6aa86bb844aad67749e-1742686045-1742675245
 #EXTINF:-1 tvg-id="123" tvg-name="Filmbox Premium", Filmbox Premium
-https://p13.magicplaces.eu/18.backup.filmboxpremium/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=7b45a2d831d6b2f939e789561bb3e04792e90481-19850b2035014d2dbeaf75eb69250ca4-1742684631-1742673831
+https://p13.magicplaces.eu/18.backup.filmboxpremium/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=4afd700f6767121ddf0f609483934960f5b6be2e-c748b46d8654b8a355af80f7b3e2026e-1742686060-1742675260
 #EXTINF:-1 tvg-id="124" tvg-name="TV1000", TV1000
-https://p11.magicplaces.eu/tv1000/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=333a8b4fbedcffd29a16ca9b57109783e78e51dc-583bc6e7f33b49a5fd32f5c7964f14ba-1742684646-1742673846
+https://p11.magicplaces.eu/tv1000/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=099d2eb157f3ea6eddace7e22fbff1c3723b0933-3d0c0916717515e450608df30cd81cb5-1742686076-1742675276
 #EXTINF:-1 tvg-id="125" tvg-name="AXN", AXN
-https://p11.magicplaces.eu/axnsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=15baa393d252057b75443c4fa5c416f1885b189f-dcda687510f91a6cb5b9d29440e65c08-1742684662-1742673862
+https://p11.magicplaces.eu/axnsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=52485ae24f4349210a6ec2cadd42c666bc8d2030-ef205f502621d6018ca112cffcabf185-1742686091-1742675291
 #EXTINF:-1 tvg-id="126" tvg-name="AXN White", AXN White
-https://p11.magicplaces.eu/axnwhite/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=fa0bc6c75a98e2e516fbc521579e3b3ca56e8a5b-f473c96a369a8dbc2c993c565c2fbf24-1742684677-1742673877
+https://p11.magicplaces.eu/axnwhite/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=f5dd4c77f9d2150ce767f47a3f1fb9146da1d0cd-cb9c004c765f0d049a0407b9ec177a28-1742686106-1742675306
 #EXTINF:-1 tvg-id="127" tvg-name="AXN Black", AXN Black
-https://p11.magicplaces.eu/axnblack/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=2775b4dc670d130ee141861ff2bd2af071a00846-e83d874f9d29db4a03714c5e7d6114c3-1742684692-1742673892
+https://p11.magicplaces.eu/axnblack/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=5d81d0d38f399d0246ef38a8b93a8bf2ce9ac0bc-2d323ec31ec6ac295532d0e392d561a0-1742686122-1742675322
 #EXTINF:-1 tvg-id="128" tvg-name="AXN Spin", AXN Spin
-https://p11.magicplaces.eu/axnspin/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=2d2c01e393383ccabd784c6c23bca08804267e95-8d483324892e752b3a4789073fc19475-1742684707-1742673907
+https://p11.magicplaces.eu/axnspin/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9c358469abf19b5936231f92a081cd51ea6bbaf6-8378f6a130f21f9c87cd995fdc530d77-1742686137-1742675337
 #EXTINF:-1 tvg-id="135" tvg-name="Warner TV", Warner TV
-https://p11.magicplaces.eu/warner/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9ec40882f337a62fc5c3a635e0ac09548c5b5be6-db395f172a742c4526b13caf42d389bd-1742684723-1742673923
+https://p11.magicplaces.eu/warner/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=68a3d4b2f7583ed445406871c9617429ad9e225e-b471d88c8f13ae4868e84e9bc9d339d8-1742686152-1742675352
 #EXTINF:-1 tvg-id="131" tvg-name="Pro Cinema", Pro Cinema
-https://p11.magicplaces.eu/procinemasd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=67bf846175fdd46df5df2547b0350cfaae660286-2522a49245f614fd62c938e4fa4a7ad6-1742684738-1742673938
+https://p11.magicplaces.eu/procinemasd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=5e61aac615d4b8d4e661b7ebe47a421b5f3a5299-9c5464985cc29c9a5edf04d79766a3c4-1742686167-1742675367
 #EXTINF:-1 tvg-id="138" tvg-name="PrimarSport 1", PrimarSport 1
-https://p13.magicplaces.eu/primasport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=90ab17bfccf228227e3a98bb857c18f0d5ab98cc-04e559b0648cd1c8487a86626f58afb6-1742684753-1742673953
+https://p13.magicplaces.eu/primasport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=4d868b873514bbee95cf9496b1c44ef90ae7f433-46da27776fb1661ef147c1f5233276c8-1742686183-1742675383
 #EXTINF:-1 tvg-id="139" tvg-name="PrimarSport 2", PrimarSport 2
-https://p13.magicplaces.eu/primasport2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=c554c092b8bc4f05769ffa924b90ab8850c48918-c32fa8257a61f1d42014f84bb00d9939-1742684768-1742673968
+https://p13.magicplaces.eu/primasport2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=36a000c30b70167f83845fdadcebbc2122ab1de9-d23135f8d67ee66c6ca7f6b0c6a5be6a-1742686198-1742675398
 #EXTINF:-1 tvg-id="140" tvg-name="PrimarSport 3", PrimarSport 3
-https://p13.magicplaces.eu/primasport3sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=10c953d361933e3accef78127e2a42829115be32-f8e09580efadcc161104c08a91499c51-1742684783-1742673983
+https://p13.magicplaces.eu/primasport3sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=e2660cb3f6b34add6f96ca820dfa0871e893eebc-b8cb26003fe9eee8d69514cbbdc63d28-1742686213-1742675413
 #EXTINF:-1 tvg-id="141" tvg-name="DigiSport 1", DigiSport 1
-https://p13.magicplaces.eu/digisport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=c3e642d2b785ef62ec502398e57a3e6e4785302a-0005938fa7a35ca4c6068e804056e84b-1742684798-1742673998
+https://p13.magicplaces.eu/digisport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=895f3baba1aca017ae3861f0a05a3b8cbc94c1a9-1fbba505e8b3da280bb8133d4b4b0c0c-1742686228-1742675428
 #EXTINF:-1 tvg-id="142" tvg-name="DigiSport 2", DigiSport 2
-https://p13.magicplaces.eu/digisport2hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=ba80f2a0d0e05ca68cf9578a3ab2f40849ac4ac4-cce79625183312c079b7bff11cac7a8d-1742684814-1742674014
+https://p13.magicplaces.eu/digisport2hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=0dfd0a776b4f591326869b97a98dcded4cc92603-4090035d4081776c6c33091dfbeaa37d-1742686244-1742675444
 #EXTINF:-1 tvg-id="143" tvg-name="DigiSport 3", DigiSport 3
-https://p13.magicplaces.eu/digisport3hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=7fd4376e4a3d957b17b1287fd514d21bd1b314cf-8f288dd0f54b287d7f3dc59a80969e1c-1742684829-1742674029
+https://p13.magicplaces.eu/digisport3hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=2ba2ff9189669d7200b07c9eabf1b80335e3b198-e23faa1bd74e6c5766d3ac6930f4ddbd-1742686259-1742675459
 #EXTINF:-1 tvg-id="144" tvg-name="DigiSport 4", DigiSport 4
-https://p13.magicplaces.eu/digisport4hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=864156de4f6f67c1aba2eec9a523f6685130446f-7e4496bc28ba27e3ec4b11f4eff89cde-1742684844-1742674044
+https://p13.magicplaces.eu/digisport4hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=ddbed1fd162c49fd4197dffb333ae10eb2283d64-5a70b04e9ec5129e64043595bc919fd9-1742686273-1742675473
 #EXTINF:-1 tvg-id="145" tvg-name="TVR Sport", TVR Sport
-https://p11.magicplaces.eu/tvrsport/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=cc093606312917c30d32b32ca29bb6f6ad054d7a-6602161bc63954ed5c10172ad2775e51-1742684860-1742674060
+https://p11.magicplaces.eu/tvrsport/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9625d2dda803b04e819343660dc0a1cb0ab47a02-0de46963e3f3c9fb4af035cfccf1f22b-1742686288-1742675488
 #EXTINF:-1 tvg-id="146" tvg-name="Sport Extra", Sport Extra
-https://p11.magicplaces.eu/sportextrahd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=1c24bb5f7873bb5b06da0107a330bdfceaa08f75-072e4e4cd586bdfa7d91fe620037da73-1742684875-1742674075
+https://p11.magicplaces.eu/sportextrahd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=d066c41b18832db29468556d16a48c61c7fcc1d2-574ef1c20387a5b82c11bdcb466ac3df-1742686304-1742675504
 #EXTINF:-1 tvg-id="147" tvg-name="EuroSport 1", EuroSport 1
-https://p11.magicplaces.eu/eurosportsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=7d5aaa277573c67bedd50e540b229e0eaddce22e-2c73dc9bf076e88c04e1649aee2de8ad-1742684890-1742674090
+https://p11.magicplaces.eu/eurosportsd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=44283b6646d9af9c5b5398e0c7113ca6ecd5ebac-30c4bea504c76c2ee808613b3b56c79a-1742686319-1742675519
 #EXTINF:-1 tvg-id="148" tvg-name="EuroSport 2", EuroSport 2
-https://p11.magicplaces.eu/eurosport2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=7029dc47417aef8a9f660c1b3789779472881f8d-b722f337e3104968179e14844a47c358-1742684906-1742674106
+https://p11.magicplaces.eu/eurosport2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=9b93db96ad5976315e619bf6f4d18cd0ab366082-e65a8f14981f2313424dab1493dd34b4-1742686334-1742675534
 #EXTINF:-1 tvg-id="149" tvg-name="Pro Arena", Pro Arena
-https://p11.magicplaces.eu/proarenahd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=31b1d007c99d3c80d4b2ef7cce0881e4dcfad732-5dc0ad926568b914d6497646e1230acc-1742684921-1742674121
+https://p11.magicplaces.eu/proarenahd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=84703e52a4e39e032ce554ad69094acda6967704-96e8586c295a785b45cfd98526619d89-1742686350-1742675550
 #EXTINF:-1 tvg-id="2" tvg-name="ORF", ORF
 https://s6.hopslan.com/orfx11/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Servus TV", Servus TV
@@ -72,7 +72,7 @@ https://s6.hopslan.com/superX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="ZDF TV", ZDF TV
-https://s6.hopslan.com/zdfX/tracks-v1a1/mono.ts.m3u8
+https://s6.hopslan.com/zdfX/tracks-v1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Vox TV", Vox TV
 https://s6.hopslan.com/voxX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="N-TV", N-TV
@@ -82,7 +82,7 @@ https://s6.hopslan.com/goldX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
 https://s6.hopslan.com/tlcX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
-https://s6.hopslan.com/zdfX/tracks-a1/mono.ts.m3u8
+https://s6.hopslan.com/zdfX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="One TV", One TV
 https://s4.hopslan.com/oneX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="SiXX TV", SiXX TV
@@ -90,16 +90,16 @@ https://s6.hopslan.com/sixX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Phoenix TV", Phoenix TV
 https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453191700&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6MTY6NTQgUE0maGFzaF92YWx1ZT1SbTlwRVl2NllCU2pEMHI4UkhYQUd3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453194320&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6NDA6NDIgUE0maGFzaF92YWx1ZT1XYmFmeEpkMWtiRklsZlN4czZ2d2RBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453191773&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6MTc6MTEgUE0maGFzaF92YWx1ZT1za2lHZnNxVUt0a2hpMzFvSG9ubFF3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453194335&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6NDA6NTkgUE0maGFzaF92YWx1ZT1zR1NXWkZuMUs4VTc2VWRiMUM3TE9RPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11364925&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6MTc6MjggUE0maGFzaF92YWx1ZT0veHcydFB5UDdkR1JrQmJoL29oZnpRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11365666&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6NDE6MTYgUE0maGFzaF92YWx1ZT1uQzlnbi9sUHQ0blR5R2N5bWVhZm9RPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453191897&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6MTc6NDUgUE0maGFzaF92YWx1ZT05TVQyc1JyK2dJWWs4RzlkQWM4TWl3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453194375&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6NDE6MzMgUE0maGFzaF92YWx1ZT1TQmhNR1VUbC9mNmNIR1MyZGtXM1hBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="109" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453191957&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6MTg6MDIgUE0maGFzaF92YWx1ZT1tL3RkUDJEbjBuSklOUjNxSDlFMlV3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453194394&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6NDE6NTAgUE0maGFzaF92YWx1ZT05NHNwZkZ2VDdTRTV5ajNEenlQMFRnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="110" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453192006&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6MTg6MTkgUE0maGFzaF92YWx1ZT1BZUZCOTlsTXJhMmllYkZpVDlqdUt3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453194432&wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDg6NDI6MDYgUE0maGFzaF92YWx1ZT1zQ0dpVEtFdkdkck1vMWV1V3lQZERRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="104" tvg-name="TV 21", TV 21
 https://t2.tvmak.com/tv/TV21MK.m3u8?kcGFBnqyw1
