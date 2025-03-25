@@ -1,9 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="105" tvg-name="MRT 1", MRT 1
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453442246&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjI5OjUxIFBNJmhhc2hfdmFsdWU9VWI4VkdHeEIxbWhOcEhoK2VTSDM5dz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453442256&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjMwOjE0IFBNJmhhc2hfdmFsdWU9dnBlUjBtYXhleWJNSFNRTDhvUUJOUT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11471125&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjI1OjIwIFBNJmhhc2hfdmFsdWU9QzNZOXJFS2Q0UXpmZzBYSStReklRUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11471181&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjMwOjM3IFBNJmhhc2hfdmFsdWU9VkRTK0JnbGZWSDhGTmtzRjRDRUVxZz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453442185&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjI1OjM3IFBNJmhhc2hfdmFsdWU9YUtCN2ZhaGhHa3dQbW1ISDVRbUZNZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453442260&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjMwOjU3IFBNJmhhc2hfdmFsdWU9bytyY2pRRGpnWlQvdEc3ampWaWhqUT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="109" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453442188&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjI1OjUzIFBNJmhhc2hfdmFsdWU9UDZmcFpDOUY4d1VwaGJLSW1Ea0pXZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453442263&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjMxOjE3IFBNJmhhc2hfdmFsdWU9OHhJNm1kcmh6ODUvUGU5N2ErVnBLdz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="110" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453442192&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjI2OjA5IFBNJmhhc2hfdmFsdWU9eU1ZVkRxVUY2TEd6RWplTUNXVi9jZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453442266&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDExOjMxOjM2IFBNJmhhc2hfdmFsdWU9OHlEalBCVmVZNGdWTTBhTDB3Vk5YQT09JnZhbGlkbWludXRlcz03JmlkPTU=
