@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="105" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453435889&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6MzU6MjcgUE0maGFzaF92YWx1ZT04ZDd1d3d6bWNTTVIrOE1UbE00N0ZRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=453436581&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6NDA6MzEgUE0maGFzaF92YWx1ZT1qNXdhRWFqQVIxczJORFRiQ3ZvTnZRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453435920&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6MzU6NDcgUE0maGFzaF92YWx1ZT11eURMaWg3TkduQjA1T0RuSnhTZ0pBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453436623&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6NDA6NTEgUE0maGFzaF92YWx1ZT1COC8zRW9GdC9rNHMyMjFVaW9TZmpBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11465838&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6MzY6MDMgUE0maGFzaF92YWx1ZT15cGR1UFg0RVFUSExZYnNxVm1xUjJ3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11466310&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6NDE6MDggUE0maGFzaF92YWx1ZT00ODhkcFkvVUYybmgzTjg1c2wvRllRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453435976&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6MzY6MjAgUE0maGFzaF92YWx1ZT05K0dXb0x0MkZSYnpZazZuMVNGZDVRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453436699&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6NDE6MjQgUE0maGFzaF92YWx1ZT1maVFoWVF2dStuVDBvc05LRWhFQ1NnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="109" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453436011&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6MzY6MzYgUE0maGFzaF92YWx1ZT1WSW5IZTRYc0FWd2p3UzR0akZwQ3JRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453436734&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6NDE6NDAgUE0maGFzaF92YWx1ZT1VVUFjN2lNdHpCSGtacGpZUm1uOUtBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="110" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453436036&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6MzY6NTMgUE0maGFzaF92YWx1ZT1GelYvRTJBRklLcFc4TEpDQ2JDUFhRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453436766&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI1IDk6NDE6NTcgUE0maGFzaF92YWx1ZT1HTXY2M2tBN3liZm00eTBpaUpCd0Z3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
