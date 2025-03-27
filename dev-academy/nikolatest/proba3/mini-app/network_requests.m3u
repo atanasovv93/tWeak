@@ -1,25 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="111" tvg-name="HBO 1", HBO 1
-https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=e7f78b38f59f1de355cbc91fdf34f624a3a8b005-22f18aea4a1b4305932387cce969483b-1743110091-1743099291
+https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=c18b8c48a52f0a5024f0d9004cea59d51d0e585d-5c48e0ea2b60d079b7a3c59ec147a858-1743110706-1743099906
 #EXTINF:-1 tvg-id="112" tvg-name="HBO 2", HBO 2
-https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=5d9f58d04413244bf558f7613c9ba5c83bec4431-9c1b00b2bcdd26479db0e6a921a2af6b-1743110106-1743099306
+https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=0fa8b440b97187f012036836b616a268295398c1-1cbfac0aafbe5a845eab07f20ea0434b-1743110720-1743099920
 #EXTINF:-1 tvg-id="113" tvg-name="HBO 3", HBO 3
-https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=c7003761c40cccbcb7545b87274e9ab2404311bb-04cb49c0fc470e55fb4aebb987918a29-1743110121-1743099321
+https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=0def4d8a557eceaa4525944279e869f9828e2a3b-0a491b1f4839f0af84817a586b30c49b-1743110735-1743099935
 #EXTINF:-1 tvg-id="114" tvg-name="SkyShowTime 1", SkyShowTime 1
-https://p11.magicplaces.eu/SkyShowTime/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=5b2494755d3230bc04f68443ef0eec34f38fd514-d345e495a93a3eb24cf536dacb294277-1743110136-1743099336
+https://p11.magicplaces.eu/SkyShowTime/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=90b6e71ab2c8ecf903e782e9c1bdfaf3a66b0c0e-51f903acf8fc4a64594512737d7a556d-1743110751-1743099951
 #EXTINF:-1 tvg-id="115" tvg-name="SkyShowTime 2", SkyShowTime 2
-https://p11.magicplaces.eu/skyshowtime2hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=1734c885610464f2889a439929ee1be3d417673b-0c56f81ab0dc5c64b9a6efd8526df819-1743110152-1743099352
+https://p11.magicplaces.eu/skyshowtime2hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=f00917f10a0a73b6a33ebb33d0e9a283399a1522-3892495a18522d0e421728a205e37a67-1743110765-1743099965
 #EXTINF:-1 tvg-id="116" tvg-name="Cinemax 1", Cinemax 1
-https://p11.magicplaces.eu/cinemaxhd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=3efbb4d34563ae7f141cf09799dfe3ca93699c4e-d136ae83e52aa194f98e6e552288d6b7-1743110167-1743099367
+https://p11.magicplaces.eu/cinemaxhd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=1391cb8bdc0bf179e19e9ac86bf25910abb56de4-030070241fc5e8719efe60aea3cd7e3a-1743110781-1743099981
 #EXTINF:-1 tvg-id="117" tvg-name="Cinemax 2", Cinemax 2
-https://p11.magicplaces.eu/cinemax2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=7bc38342662df284e850296c45115ea0d7188114-ab2eef7bdf460f594b4b41624f31d8e5-1743110182-1743099382
-#EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=453564491&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDI1IDY6MjI6MDQgUE0maGFzaF92YWx1ZT1SdUpKK0VLOS94QXUzL016VjI4TW13PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=11519744&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDI1IDY6MjI6MjcgUE0maGFzaF92YWx1ZT1SeXlvanJlTW1HQmRzTmpZYnhkamdRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=453564539&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDI1IDY6MjI6NDMgUE0maGFzaF92YWx1ZT1iaEdVWjA3cXRRSXVXcTRWeDZVaGhBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="109" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=453564556&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDI1IDY6MjM6MDAgUE0maGFzaF92YWx1ZT1aclNvaHlheitITkNhcVdZQlhqWW5BPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="110" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=453564575&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDI1IDY6MjM6MTcgUE0maGFzaF92YWx1ZT14enNyYTRRSkJrWVFGY2VuT3J6T0d3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://p11.magicplaces.eu/cinemax2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=b21f2055281f13543d23223abd391918900233d9-d4d4c85ea06a7c1c15af447882a262ee-1743110796-1743099996
