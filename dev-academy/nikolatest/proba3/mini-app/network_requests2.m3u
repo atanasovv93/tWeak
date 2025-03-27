@@ -1,37 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="26" tvg-name="Movie Star", Movie Star
-https://cdn10.stgledai.org/moviestar/tracks-v1a1/mono.m3u8?token=432b9ca85f7c7f2d5a16e9861d4195359456a200-306b6811d57b660578223876614b68e6-1743109502-1743098702
+https://cdn8.stgledai.org/moviestar/tracks-v1a1/mono.m3u8?token=265db63c08807ff7d8ca74578d789e1de15d1d43-22681371e2f5c74f604f2a71f2c6b1f9-1743110088-1743099288
 #EXTINF:-1 tvg-id="27" tvg-name="Kino Nova", Kino Nova
-https://cdn11.stgledai.org/kino/tracks-a1/mono.m3u8?token=0b89190b83bfcf1241d5bf33d4a567872de2f8fe-c2a584e92bb9cb58528f75338fb10081-1743109523-1743098723
+https://cdn8.stgledai.org/kino/tracks-a1/mono.m3u8?token=dfdd14fc786f3223190caff1047798ce66175076-3c7a9fc46571f46067f4ffa7fd1f1e82-1743110108-1743099308
+#EXTINF:-1 tvg-id="27" tvg-name="Fox Crime", Fox Crime
+https://cdn13.stgledai.org/foxcrime/tracks-v1a1/mono.m3u8?token=27e74a2c75fba701535f067edeec9f9afd7488f5-95aa5ea661e54a22396614901f9e87ae-1743110136-1743099336
 #EXTINF:-1 tvg-id="28" tvg-name="Fox Life", Fox Life
-https://cdn8.stgledai.org/foxlife/tracks-a1/mono.m3u8?token=57edaa36ec836cb861464f8b031513eb6d10bd0d-637d75585329f729100437859ce9c97c-1743109572-1743098772
+https://cdn11.stgledai.org/foxlife/tracks-a1/mono.m3u8?token=fd8a89679ca42de680dc0632a530adf516f0e4a0-0fb8208fa32fb425b57f4865e9965098-1743110172-1743099372
 #EXTINF:-1 tvg-id="30" tvg-name="FilmBox BG", FilmBox BG
-https://cdn11.stgledai.org/filmbox/tracks-v1a1/mono.m3u8?token=534d5a9247fc3cbb4a93524efb3fcbb4f9043045-458e85c76276f05574f9a2b9843e8880-1743109592-1743098792
+https://cdn11.stgledai.org/filmbox/tracks-v1a1/mono.m3u8?token=c6fc167fd7f6df464daac7e1d2ae0c0b1d32d375-8469c95f5bd372124c33ae71787fad21-1743110191-1743099391
 #EXTINF:-1 tvg-id="31" tvg-name="FilmBox Plus", FilmBox Plus
-https://cdn13.stgledai.org/filmboxplus/tracks-v1a1/mono.m3u8?token=379805137cd33a0b3e6e0d4a4f2b98ecbcc36dd7-e234718359f38abf4d27b7a004895b91-1743109621-1743098821
+https://cdn10.stgledai.org/filmboxplus/tracks-v1a1/mono.m3u8?token=df33b1f05911f912b9882cd5747456dcc804e2d5-6365d439b6384cb45676810d5c5e3082-1743110212-1743099412
 #EXTINF:-1 tvg-id="32" tvg-name="FilmBox Extra", FilmBox Extra
-https://cdn9.stgledai.org/filmboxextra/tracks-v1a1/mono.m3u8?token=45e2f77d27092038cdda57c043789631cedb6a65-c86352f8723429c51feaa25742687a82-1743109642-1743098842
+https://cdn9.stgledai.org/filmboxextra/tracks-v1a1/mono.m3u8?token=d1e918b509b134863467bf6c74ba7da2b3912000-3cf83d55b91c001b7f24478267e62ada-1743110256-1743099456
 #EXTINF:-1 tvg-id="33" tvg-name="Diema", Diema
-https://cdn9.stgledai.org/diema/tracks-a1/mono.m3u8?token=d741d1181e63c35883c2827dce77d2fd4b4859ff-368dfe7bf3b0673362175ed69d035e58-1743109661-1743098861
+https://cdn13.stgledai.org/diema/tracks-a1/mono.m3u8?token=d48fcbfc2388ea91a338ded294228b7782387d74-6e73a16136eda97b0cf7e50ef7c5f2cc-1743110275-1743099475
 #EXTINF:-1 tvg-id="34" tvg-name="Diema Family", Diema Family
-https://cdn11.stgledai.org/diemaf/tracks-a1/mono.m3u8?token=9ceef438435f7f589e11b5cc178fc1fd06f408b8-23fb15ca1717adfe41946e46611864d6-1743109679-1743098879
+https://cdn8.stgledai.org/diemaf/tracks-a1/mono.m3u8?token=b6a67dbf042d9be0616cb02d157023b32cd16933-a86c63a67e6da55b59040e350d4bc4fe-1743110294-1743099494
 #EXTINF:-1 tvg-id="35" tvg-name="bTV Lady", bTV Lady
-https://cdn8.stgledai.org/btvlady/tracks-v1a1/mono.m3u8?token=59e5c9b6bc0866c954acca08307670682841d8ad-687650bb2224741fd3ba74edaa544fd6-1743109698-1743098898
+https://cdn13.stgledai.org/btvlady/tracks-v1a1/mono.m3u8?token=a94a33102797502a7499a4476c28184ae40407fd-7d17aad5cb5668f0c0af394e5312c304-1743110314-1743099514
 #EXTINF:-1 tvg-id="36" tvg-name="bTV Comedy", bTV Comedy
-https://cdn10.stgledai.org/btvcomedy/tracks-v1a1/mono.m3u8?token=3903ba36bcdf8d6a384ae8196465a5b95d9b2318-0976da82853128a483bf8e6eca28b26c-1743109718-1743098918
+https://cdn11.stgledai.org/btvcomedy/tracks-v1a1/mono.m3u8?token=2b9b43058d8c2e06e2379585d3dac3dcc59fa871-93ac98b69a5a90ad11191a413dc5abc0-1743110331-1743099531
 #EXTINF:-1 tvg-id="37" tvg-name="bTV Cinema", bTV Cinema
-https://cdn9.stgledai.org/btvcinema/tracks-v1a1/mono.m3u8?token=a3fbdd1578712ee8bdf3eebb3080715b25b89194-0815c72eb6c7488989ae15bc70139004-1743109737-1743098937
+https://cdn9.stgledai.org/btvcinema/tracks-v1a1/mono.m3u8?token=41fc474471ecc2468ce2a77ee0c823d885b35536-c3f489fcf58d1da14cc49e3d592e90cf-1743110349-1743099549
 #EXTINF:-1 tvg-id="39" tvg-name="AXN BG", AXN BG
-https://cdn8.stgledai.org/axn/tracks-a1/mono.m3u8?token=97852106a9f5ec6ac43486b6141b610a72a35c50-9756975a049ebdd14824f121f3f7aa06-1743109756-1743098956
+https://cdn9.stgledai.org/axn/tracks-a1/mono.m3u8?token=5f26b6200ada9205485deb81153e94d3f4065299-910ab65d0d9309df142fd2e7452db042-1743110368-1743099568
 #EXTINF:-1 tvg-id="40" tvg-name="AMC BG", AMC BG
-https://cdn10.stgledai.org/amc/tracks-v1a1/mono.m3u8?token=edb27296e1e259a32c816f0e2c68f6bb572711ba-40cb93d3d781e21a2c697d16148ad471-1743109775-1743098975
+https://cdn10.stgledai.org/amc/tracks-v1a1/mono.m3u8?token=2027016106d3bf96e3bcc886d51c599e1f7dc79e-5ca030351e5678bcf00ab699c7536afe-1743110387-1743099587
 #EXTINF:-1 tvg-id="41" tvg-name="Epic Drama BG", Epic Drama BG
-https://cdn13.stgledai.org/epicdrama/tracks-v1a1/mono.m3u8?token=0729db0873e26d042a411167048197fe83b6c7c8-adaa2358c79d87fc3c9e09dc52f6a39e-1743109792-1743098992
+https://cdn13.stgledai.org/epicdrama/tracks-v1a1/mono.m3u8?token=c77e149cf61e44c4ed9e4bf561881c15db3f6683-5364bb38f1d29b2829da586f33d0317e-1743110404-1743099604
 #EXTINF:-1 tvg-id="42" tvg-name="Animal Planet BG", Animal Planet BG
-https://cdn8.stgledai.org/animalplanet/tracks-v1a1/mono.m3u8?token=5a865f37ddeaf3c543e3a3c352ac3baf388d3a04-5f8af09ea2ddbef8e9d6603bbe6b171f-1743109811-1743099011
+https://cdn8.stgledai.org/animalplanet/tracks-v1a1/mono.m3u8?token=924a67bca36f43043d02d86cc83273ccaaca8b55-fe372d3166940d7d037b846b7d0aa7d1-1743110424-1743099624
 #EXTINF:-1 tvg-id="43" tvg-name="Discovery Channel BG", Discovery Channel BG
-https://cdn11.stgledai.org/discovery/tracks-v1a1/mono.m3u8?token=4ece9dd58c8d4c21ef704cf19fbdc5614d4e0940-e9bd5fbf0616b2f18ce99ef4023cca5c-1743109830-1743099030
+https://cdn11.stgledai.org/discovery/tracks-v1a1/mono.m3u8?token=4cf72c94c6794a89e00954387e0df0d2a4bc3de2-55ec793accb129dfb7bfd164d9f4faa9-1743110442-1743099642
 #EXTINF:-1 tvg-id="44" tvg-name="DocuBox BG", DocuBox BG
-https://cdn10.stgledai.org/docubox/tracks-v1a1/mono.m3u8?token=1cf002dc3ed3fb0af3124b646ca372109026ba2b-f4d20937b5e5a77c390497e13a6f80c1-1743109847-1743099047
+https://cdn9.stgledai.org/docubox/tracks-v1a1/mono.m3u8?token=fb55f65dfc82889ec18a54d22bfa556103ba2595-501a599f5763882093049064387c62c3-1743110461-1743099661
 #EXTINF:-1 tvg-id="45" tvg-name="History Channel BG", History Channel BG
-https://cdn9.stgledai.org/historytv/tracks-v1a1/mono.m3u8?token=4f34ef360c796d3424a6c7bb6ea6ade307ecd310-5334d4fed341204dc42af632878a6022-1743109866-1743099066
+https://cdn8.stgledai.org/historytv/tracks-v1a1/mono.m3u8?token=a609d345a8de65d88319dcf8f282445a88e5963e-7d3375f195f1d4a2b821ea7178a9d32d-1743110480-1743099680
