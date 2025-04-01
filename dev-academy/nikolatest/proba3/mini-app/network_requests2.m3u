@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1", Max Sport 1
-https://cdn10.stgledai.org/mtelsport/tracks-v2a1/mono.m3u8?token=6ea9271b65e912d8299eae564f85781bf5da8c7f-48e3673cb50d2ce0f5b3f4f810f11e8a-1743546925-1743536125
+https://cdn11.stgledai.org/mtelsport/tracks-v1a1/mono.m3u8?token=fdd2683bee8525428c83c97fed91c70e254f8cba-6f5a280d50e52c0622cf384bc5070d00-1743548751-1743537951
 #EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
-https://cdn11.stgledai.org/mtelsport2/tracks-v1a1/mono.m3u8?token=93ecf91ee1a0cfa3e97b6e652dd97b9ea5210563-6a10c61b4434713f8b961056a050d9c8-1743546946-1743536146
+https://cdn9.stgledai.org/mtelsport2/tracks-v1a1/mono.m3u8?token=7aa5ba0a390ca2509aa48bdf9ba5b96f556c391f-9f83a91ab3beadfa147e9119fc35ac9f-1743548774-1743537974
 #EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
-https://cdn8.stgledai.org/mtelsport3/tracks-v1a1/mono.m3u8?token=48db604f28fdb73eea4acf39df625147aaabfee2-676f1ab6b98db899814ad434215908b7-1743546965-1743536165
+https://cdn13.stgledai.org/mtelsport3/tracks-v1a1/mono.m3u8?token=a114e71f523b1aae7603b31b050127719595999a-183856f6a0fee597f12817d0deaf5493-1743548794-1743537994
 #EXTINF:-1 tvg-id="18" tvg-name="Max Sport 4", Max Sport 4
-https://cdn9.stgledai.org/mtelsport4/tracks-v1a1/mono.m3u8?token=2d6d28457244a15b6f53cfca878ecf0d8ac6b9c2-9ab0809f33f2aa82a4ae9c3b61f4e0ce-1743546983-1743536183
+https://cdn13.stgledai.org/mtelsport4/tracks-v1a1/mono.m3u8?token=a72f3961f16675ca2401a77cf2f2e0f8458ac233-42ce3ae280ee0ac0e36a979c56017c37-1743548813-1743538013
 #EXTINF:-1 tvg-id="19" tvg-name="Diema Sport", Diema Sport
-https://cdn10.stgledai.org/diemasport/tracks-a1/mono.m3u8?token=51de9d62a5403885869a5d8cef0c450d3dc788b6-9a45669832cba5f0e0739427b41bc0d2-1743547002-1743536202
+https://cdn11.stgledai.org/diemasport/tracks-a1/mono.m3u8?token=9c67e7b0dfa5195472db60f42dc1686f4d3c041a-39b5aec07ff441638da44a7d43bc6265-1743548832-1743538032
 #EXTINF:-1 tvg-id="20" tvg-name="Diema Sport 2", Diema Sport 2
-https://cdn11.stgledai.org/diemasport2/tracks-v1a1/mono.m3u8?token=f3d6b80f42743458abab23c85186ee7435a14f21-24d89e7a049b43ad7f99389371ad084c-1743547025-1743536225
+https://cdn8.stgledai.org/diemasport2/tracks-v1a1/mono.m3u8?token=d819ffa36055d1859b24c6347dd67ef289fdbfb6-b5f610eff4a568eb4150d6d264a53972-1743548850-1743538050
 #EXTINF:-1 tvg-id="21" tvg-name="Diema Sport 3", Diema Sport 3
-https://cdn13.stgledai.org/diemasport3/tracks-v1a1/mono.m3u8?token=1e45ad3ce029da85058a15e026d9bf65943c2b56-0debecfbdc42ab095cc04b792e6f24bf-1743547043-1743536243
+https://cdn11.stgledai.org/diemasport3/tracks-v1a1/mono.m3u8?token=77643fd02779f7f42ef3e3e5408fb8b9c5498b85-78b10ebe4f671efd2b3c9457f30d0d12-1743548870-1743538070
 #EXTINF:-1 tvg-id="23" tvg-name="Ring TV", Ring TV
-https://cdn13.stgledai.org/ringbg/tracks-v2a1/mono.m3u8?token=2a95bf3ce6fa08cb004cb5c7d494f96a5766821d-4b05068ed48ef9b1f8436fb250e4b495-1743547062-1743536262
+https://cdn10.stgledai.org/ringbg/tracks-v1a1/mono.m3u8?token=5870e052dfbb3ad9d0b42b8ba0afc4038ba20ea7-172d781f59b9411b11e60fb95e3e9acb-1743548888-1743538088
