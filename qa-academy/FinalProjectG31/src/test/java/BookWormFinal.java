@@ -67,7 +67,7 @@ public class BookWormFinal {
         categoriesPage.proceedToCheckout();
 
         // Step 5: Fill in the checkout form and place an order
-        checkoutPage.fillCheckoutForm("John", "Doe", "", "California", "3747 Cemetery Street", "", "93901", "Salinas", "CA", "+1 831-718-9423", "johndoeusa56@gmail.com");
+        checkoutPage.fillCheckoutForm("John", "Doe", "", "California", "3747 Cemetery Street", "", "93901", "Salinas", "CA", "+1 831-718-9423", "johndoeusa33@gmail.com");
         checkoutPage.placeOrder();
 
         // Step 6: Validate that the order is successful
