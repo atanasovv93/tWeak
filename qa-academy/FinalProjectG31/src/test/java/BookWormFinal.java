@@ -9,10 +9,16 @@ import pageObject.CategoriesPage;
 import pageObject.HomePage;
 import pageObject.WishListPage;
 import pageObject.CheckoutPage;
+import org.testng.TestNG;
 
 import java.time.Duration;
 
 public class BookWormFinal {
+     public static void main(String[] args) {
+        TestNG testng = new TestNG();
+        testng.setTestClasses(new Class[] { BookWormFinal.class });
+        testng.run();
+    }
     WebDriver driver;
     WebDriverWait wait;
     HomePage homePage;
